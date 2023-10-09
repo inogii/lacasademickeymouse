@@ -128,6 +128,20 @@ def dataset_preprocessing(df):
     df = zscore_norm(df, variables_enteras)
     df = zscore_norm_price(df)
     df = one_hot_encoding(df, variables_categoricas)
+
+    corr = df.corr()
+    umbral = 0.5
+    # Encontrar características altamente correlacionadas
+    caract_alta_correlación = set()
+    for i in range(len(corr.columns)):
+        for j in range(i):
+            if abs(corr.iloc[i, j]) > umbral:
+                colname = corr.columns[i]
+                caract_alta_correlación.add(colname)
+
+    print(caract_alta_correlación)
+    df_filtered = df.drop(caract_alta_correlación, axis=1)
+    df_filtered
     
     return df
 
@@ -208,10 +222,10 @@ class RegressionTransformer(nn.Module):
         super(RegressionTransformer, self).__init__()
         # Transformer encoder layer
         encoder_layer = nn.TransformerEncoderLayer(d_model=feature_dim, 
-                                                   nhead=num_heads, 
-                                                   dropout=dropout)
+                                                    nhead=num_heads, 
+                                                    dropout=dropout)
         self.transformer_encoder = nn.TransformerEncoder(encoder_layer, 
-                                                         num_layers=num_encoder_layers)
+                                                            num_layers=num_encoder_layers)
         # Final feed-forward layer to produce a single output for regression
         self.regressor = nn.Linear(feature_dim, 1)
     
