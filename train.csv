@@ -1,0 +1,1001 @@
+Id,Tipo,FechaConstruccion,FechaReforma,Plantas,Plan,PAU,CatParcela,PerimParcela,Superficie,Aseos,Habitaciones,Garaje,Piscina,Vallada,CallePavimentada,Callejon,Formato,TipoDesnivel,Desnivel,GasNatural,AguaCorriente,FosaSeptica,Situacion,CP,ProxCarretera,ProxCallePrincipal,ProxViasTren,Estado,RatingEstrellas,Precio
+1,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,79.25,785.03,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,375497
+2,Chalet individual,1976,1976,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50018,0,1,0,8,3.0,339946
+3,Chalet individual,2001,2002,2,Antiguo,0,Residencial unifamiliar,82.91,1045.16,4,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,402511
+4,Chalet individual,1915,1970,2,Nuevo,0,Residencial unifamiliar,73.15,887.22,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62451,0,0,0,5,3.5,272706
+5,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,102.41,1324.8,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,60706,0,0,0,5,4.0,450236
+6,Chalet individual,1993,1995,1,,0,Residencial unifamiliar,103.63,1311.33,3,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,2.5,247630
+7,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,91.44,936.83,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,575005
+8,Chalet individual,1973,1973,2,Antiguo,0,Residencial unifamiliar,,964.52,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,6,3.5,346335
+9,Chalet individual,1931,1950,1,,0,Residencial tipo 2,62.18,568.57,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,5,3.5,233943
+10,Chalet adosado,1939,1950,3,,0,Residencial unifamiliar,60.96,689.34,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,1,0,0,6,2.5,212511
+11,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,85.34,1040.51,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,233222
+12,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,103.63,1107.78,4,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,672026
+13,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,,1204.77,2,4,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,259336
+14,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,110.95,989.6,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,523498
+15,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,,1014.5,3,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,3.0,282748
+16,Chalet individual,1929,2001,1,,0,Residencial tipo 2,62.18,568.57,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,0,0,0,8,3.5,247234
+17,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,,1044.32,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50014,0,0,0,7,3.0,248096
+18,Dúplex,1967,1967,2,,0,Residencial unifamiliar,87.78,1002.52,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.0,175311
+19,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,80.47,1272.31,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,2.5,286350
+20,Chalet individual,1958,1965,1,Antiguo,0,Residencial unifamiliar,85.34,702.35,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,240703
+21,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,123.14,1320.62,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,4.0,633652
+22,Chalet individual,1930,1950,1,,0,Residencial tipo 2,69.49,692.03,1,6,1,0,1,1,1,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,60406,0,0,0,7,3.5,261094
+23,Chalet individual,2002,2002,1,Antiguo,0,Residencial unifamiliar,91.44,905.06,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,414217
+24,Piso alto,1976,1976,1,Antiguo,1,Residencial tipo 2,53.64,392.42,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,7,2.5,243300
+25,Chalet individual,1968,2001,1,Antiguo,0,Residencial unifamiliar,,766.08,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,8,2.5,256421
+26,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,134.11,1322.01,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,4.0,443829
+27,Chalet individual,1951,2000,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,2.5,224452
+28,Chalet individual,2007,2008,1,Antiguo,0,Residencial unifamiliar,119.48,1066.34,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,509512
+29,Chalet individual,1957,1997,1,Antiguo,0,Residencial unifamiliar,57.3,1516.27,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50014,0,0,0,6,2.5,404189
+30,Chalet individual,1927,1950,1,Nuevo,0,Residencial tipo 2,73.15,587.52,1,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,1,1,6,2.0,123365
+31,Chalet individual,1920,1950,2,Nuevo,0,Terciario,60.96,789.68,1,6,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,1,0,4,2.0,72038
+32,Chalet individual,1966,2006,1,Antiguo,0,Residencial unifamiliar,,793.76,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,6,2.5,268971
+33,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,103.63,1026.49,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,4.0,323990
+34,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,85.34,980.31,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,275570
+35,Piso alto,2005,2005,1,Antiguo,1,Residencial unifamiliar,73.15,679.4,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,519752
+36,Chalet individual,2004,2005,2,Antiguo,0,Residencial unifamiliar,131.67,1246.57,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,601901
+37,Chalet individual,1994,1995,1,Antiguo,0,Residencial unifamiliar,136.55,1008.83,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,2.5,251093
+38,Chalet individual,1954,1990,1,Antiguo,0,Residencial unifamiliar,90.22,792.65,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,264946
+39,Chalet individual,1953,2007,1,Antiguo,0,Residencial unifamiliar,82.91,735.98,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,181493
+40,Dúplex,1955,1955,2,,0,Residencial unifamiliar,79.25,561.13,2,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.0,147677
+41,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,102.41,804.35,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,311664
+42,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,140.21,1570.53,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,6,2.5,318407
+43,Chalet individual,1983,1983,2,,0,Residencial unifamiliar,,852.85,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50015,0,0,0,7,2.5,269709
+44,Chalet individual,1975,1980,1,Antiguo,0,Residencial unifamiliar,,854.71,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,6,2.5,234573
+45,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,85.34,738.11,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,274654
+46,Piso alto,2005,2005,1,Antiguo,1,Residencial unifamiliar,74.37,711.45,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,532657
+47,Chalet individual,2003,2003,1,,0,Residencial unifamiliar,58.52,1191.2,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,5,3.5,415059
+48,Chalet individual,2006,2006,1,Antiguo,0,Residencial especial,102.41,1030.85,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,467683
+49,Chalet adosado,1920,2008,3,,0,Residencial tipo 2,40.23,413.98,2,8,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,2.0,195679
+50,Chalet individual,1966,1966,1,Antiguo,0,Residencial unifamiliar,80.47,719.26,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,2.5,237869
+51,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,,1288.47,3,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,6,3.0,331518
+52,Chalet individual,1934,1950,1,,0,Residencial tipo 2,63.4,579.71,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,3.0,223035
+53,Dúplex,1963,1963,2,,0,Residencial tipo 2,134.11,787.07,2,5,1,0,0,0,0,Algo irregular,Inclinación frontal,Moderado,1,1,0,Esquina,60406,0,0,1,5,2.5,183158
+54,Chalet individual,1981,1987,1,Antiguo,0,Residencial unifamiliar,82.91,4670.33,3,5,1,0,0,1,0,Poco irregular,Muy irregular,Ligero,1,1,0,Interior,50018,0,0,0,5,4.5,749942
+55,Chalet individual,1955,1955,2,,0,Residencial unifamiliar,73.15,662.77,1,6,1,0,1,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,50014,0,0,0,5,2.5,243488
+56,Chalet individual,1964,1964,1,Antiguo,0,Residencial unifamiliar,121.92,945.29,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,325070
+57,Casa baja,1999,2000,2,Antiguo,1,Residencial especial,29.26,245.73,4,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,298714
+58,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,108.51,1081.86,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,3.5,382762
+59,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,80.47,1271.1,4,10,1,0,0,1,0,Algo irregular,Inclinación lateral,Ligero,1,1,0,Trasero,50012,0,0,0,5,5.0,854700
+60,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,4,1,0,1,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,60061,0,0,0,7,2.5,224938
+61,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,76.81,1214.43,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,307768
+62,Chalet individual,1920,1996,2,,0,Residencial tipo 2,73.15,668.9,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,7,2.5,189171
+63,Piso alto,2006,2006,1,Antiguo,1,Residencial unifamiliar,53.64,598.48,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,379279
+64,Chalet individual,1921,1950,2,Nuevo,0,Residencial tipo 2,60.96,956.9,2,9,1,0,1,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,61704,0,1,0,6,3.5,233110
+65,Chalet individual,1997,1998,2,Antiguo,0,Residencial unifamiliar,,870.97,4,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,380103
+66,Chalet individual,2004,2005,2,Antiguo,0,Residencial unifamiliar,92.66,891.03,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,593735
+67,Chalet individual,1970,1989,1,Antiguo,0,Residencial unifamiliar,,1848.77,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.5,299713
+68,Chalet individual,2003,2003,1,Antiguo,0,Residencial unifamiliar,87.78,990.81,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,423294
+69,Chalet individual,1945,1950,1,Nuevo,0,Residencial tipo 2,57.3,428.1,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,1,0,0,6,2.0,133206
+70,Chalet individual,1953,1953,1,,0,Residencial unifamiliar,98.76,1448.64,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62447,0,0,0,4,3.5,438278
+71,Chalet individual,1973,1973,1,Antiguo,0,Residencial unifamiliar,115.82,1268.22,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.5,457007
+72,Chalet individual,1982,2006,1,Antiguo,0,Residencial unifamiliar,84.12,705.97,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62040,0,0,0,6,2.0,242551
+73,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,90.22,942.13,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,320360
+74,Chalet individual,1954,2003,1,Antiguo,0,Residencial unifamiliar,103.63,947.61,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,241269
+75,Chalet individual,1915,1950,1,,0,Residencial tipo 2,73.15,537.91,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,6,1.5,178829
+76,Casa baja,1973,1973,2,,1,Residencial tipo 2,25.6,148.27,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,5,2.0,157583
+77,Chalet individual,1956,1956,1,Antiguo,0,Residencial unifamiliar,,787.35,1,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.0,244478
+78,Chalet individual,1948,2001,1,,0,Residencial tipo 2,60.96,802.22,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,5,2.5,228720
+79,Dúplex,1968,1968,2,,0,Residencial unifamiliar,87.78,1001.31,2,8,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.0,227283
+80,Chalet individual,1910,1981,1,,0,Residencial tipo 2,73.15,969.91,2,5,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,6,2.5,190484
+81,Chalet individual,1968,1968,2,Antiguo,0,Residencial unifamiliar,121.92,1207.74,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,3.0,335079
+82,Piso alto,1998,1998,1,Antiguo,1,Residencial tipo 2,39.01,418.06,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,62040,0,0,0,5,3.0,299003
+83,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,95.1,948.17,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,441231
+84,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,97.54,826.09,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,236932
+85,Chalet individual,1995,1996,2,,0,Residencial unifamiliar,,792.46,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,291787
+86,Chalet individual,1991,1992,2,Antiguo,0,Residencial unifamiliar,147.52,1491.93,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60706,0,0,0,5,4.0,506454
+87,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,148.74,1106.57,3,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,301312
+88,Piso alto,2009,2009,2,Antiguo,1,Residencial especial,48.77,367.06,3,4,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,3.0,284861
+89,Chalet individual,1915,1982,1,,0,Terciario,128.02,786.89,1,6,0,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60406,0,1,0,2,1.5,147192
+90,Chalet individual,1994,1995,1,Antiguo,0,Residencial unifamiliar,73.15,749.73,2,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,2.0,231500
+91,Chalet individual,1950,1950,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.0,214074
+92,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,103.63,789.68,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,3,2.5,192063
+93,Chalet individual,1921,2006,1,Nuevo,0,Residencial unifamiliar,97.54,1241.18,2,5,1,0,0,1,1,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,62451,0,0,0,7,2.5,283129
+94,Chalet adosado,1910,1998,3,,0,Terciario,73.15,668.9,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,6,3.0,250792
+95,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,84.12,867.44,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,383493
+96,Chalet individual,1993,1993,2,Antiguo,0,Residencial unifamiliar,,907.2,3,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,8,3.0,320360
+97,Chalet individual,1999,1999,1,Antiguo,0,Residencial unifamiliar,95.1,953.56,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,416851
+98,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,89.0,1014.59,2,6,1,0,0,1,0,Rectangular,Inclinación lateral,Ligero,1,1,0,Interior,61528,0,0,0,5,2.0,177465
+99,Chalet individual,1920,1950,1,Nuevo,0,Residencial unifamiliar,103.63,987.09,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,2.5,138201
+100,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,93.88,865.86,3,6,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.0,214711
+101,Chalet individual,1977,2001,1,Antiguo,0,Residencial unifamiliar,,985.05,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,7,3.0,341340
+102,Chalet individual,1985,1985,2,Antiguo,0,Residencial unifamiliar,93.88,855.27,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,296383
+103,Dúplex,1979,1979,2,,0,Residencial unifamiliar,78.03,651.99,2,8,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50015,0,0,0,5,2.5,206007
+104,Chalet individual,2009,2009,1,Antiguo,0,Residencial unifamiliar,114.6,966.38,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,3.5,331183
+105,Chalet individual,1931,1950,1,,0,Residencial tipo 2,,720.74,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60406,0,0,0,4,3.5,317470
+106,Chalet individual,2003,2004,2,Antiguo,0,Residencial especial,91.44,870.97,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,450236
+107,Chalet individual,1885,1995,1,Nuevo,0,Residencial tipo 2,73.15,1003.35,1,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,2.0,187298
+108,Chalet individual,1948,1950,1,Antiguo,0,Residencial tipo 2,60.96,557.42,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,2.5,207109
+109,Chalet individual,1919,2005,1,,0,Residencial tipo 2,103.63,789.68,2,7,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60406,1,0,0,7,2.5,215393
+110,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,128.02,1091.7,2,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,316364
+111,Chalet individual,1954,1972,1,,0,Residencial unifamiliar,91.44,884.9,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,4,3.0,266668
+112,Chalet individual,2000,2000,2,,0,Residencial unifamiliar,,720.0,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,299713
+113,Chalet individual,2007,2007,2,Antiguo,0,Residencial unifamiliar,93.88,925.78,4,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,719169
+114,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,,1950.96,3,7,1,0,1,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Esquina,62451,0,0,0,5,3.0,406437
+115,Chalet individual,1945,2002,2,Nuevo,0,Residencial unifamiliar,74.37,674.38,4,9,1,0,1,1,0,Poco irregular,Llana,Moderado,1,1,0,Interior,62451,0,0,0,8,3.0,486039
+116,Piso alto,1999,1999,2,Antiguo,1,Residencial especial,41.45,300.08,3,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,3.0,329645
+117,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,,1079.16,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,240703
+118,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,90.22,793.02,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,2.5,290312
+119,Chalet individual,1990,1990,2,Antiguo,0,Residencial unifamiliar,109.73,1149.77,4,11,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,5,3.5,532824
+120,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,79.25,786.05,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,319436
+121,Chalet individual,1969,1969,2,,0,Residencial unifamiliar,,1993.05,2,4,1,0,0,1,0,Poco irregular,Muy irregular,Elevado,1,1,0,Trasero,62447,0,0,0,5,3.0,350622
+122,Chalet individual,1939,1950,1,,0,Residencial tipo 2,60.96,562.99,1,4,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,5,2.0,187298
+123,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,91.44,879.23,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,3.0,244928
+124,Piso alto,1993,1993,1,Antiguo,1,Residencial unifamiliar,67.06,733.19,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,277165
+125,Chalet individual,1979,1998,1,Antiguo,0,Residencial unifamiliar,58.52,1583.35,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50012,0,0,0,5,3.0,313433
+126,Chalet adosado,1935,1982,3,,0,Residencial tipo 2,73.15,629.88,2,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,8,3.0,164598
+127,Piso alto,1976,1976,1,Antiguo,1,Residencial unifamiliar,,457.83,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60646,0,0,0,5,3.0,239742
+128,Chalet individual,1930,1950,1,,0,Residencial tipo 2,67.06,407.66,1,5,0,0,0,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,61704,0,1,0,7,2.5,162949
+129,Chalet individual,1966,1966,2,Antiguo,0,Residencial unifamiliar,84.12,705.13,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,301925
+130,Chalet individual,1958,1991,1,Antiguo,0,Residencial unifamiliar,84.12,833.62,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,292185
+131,Chalet individual,1966,1966,2,Antiguo,0,Residencial unifamiliar,107.29,1319.22,3,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,3.5,440226
+132,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,,1135.65,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.0,422529
+133,Chalet individual,1959,2002,1,Antiguo,0,Residencial unifamiliar,91.44,686.37,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,2.5,282352
+134,Chalet individual,2001,2002,1,Antiguo,0,Residencial unifamiliar,,636.66,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,380969
+135,Chalet individual,1968,1993,1,Antiguo,0,Residencial unifamiliar,95.1,960.15,3,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,350622
+136,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,97.54,966.19,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.5,313364
+137,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,,962.01,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,2.5,267836
+138,Dúplex,1988,1989,2,,0,Residencial unifamiliar,99.97,1028.44,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,3.5,333091
+139,Chalet individual,1999,2000,2,Antiguo,0,Residencial unifamiliar,89.0,842.26,3,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,414217
+140,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,79.25,1433.12,4,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,400883
+141,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,85.34,975.48,1,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50014,0,0,0,5,2.0,191483
+142,Chalet individual,2005,2005,1,Antiguo,0,Residencial unifamiliar,95.1,1081.86,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,506454
+143,Chalet individual,1952,1952,1,,0,Residencial unifamiliar,86.56,791.53,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,1,0,0,4,2.5,276402
+144,Chalet individual,1999,1999,1,Antiguo,0,Residencial unifamiliar,95.1,960.15,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,353262
+145,Dúplex,1963,1963,2,,0,Residencial tipo 2,85.34,845.42,3,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,243488
+146,Casa baja,2004,2006,2,Antiguo,1,Residencial tipo 2,29.26,234.3,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.0,253227
+147,Chalet individual,1931,1993,1,Nuevo,0,Residencial tipo 2,62.18,568.57,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,0,0,0,7,2.5,181826
+148,Chalet individual,2001,2001,2,Antiguo,0,Residencial unifamiliar,,883.04,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60118,0,0,0,5,3.5,370479
+149,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,76.81,696.77,2,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,253933
+150,Chalet individual,1936,1950,1,,0,Residencial tipo 2,,579.71,1,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,4,2.5,224009
+151,Chalet individual,1975,1975,1,Antiguo,0,Residencial unifamiliar,146.3,962.1,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,6,2.5,228504
+152,Chalet individual,2007,2008,1,Antiguo,0,Residencial unifamiliar,130.45,1290.52,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,670675
+153,Chalet individual,1971,1971,2,Antiguo,0,Residencial unifamiliar,,1375.24,3,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50012,0,0,0,5,3.0,370101
+154,Chalet individual,1960,1975,1,Antiguo,0,Residencial unifamiliar,,1254.19,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,7,3.0,423222
+155,Chalet individual,1923,1950,1,Nuevo,0,Residencial tipo 2,102.41,1053.52,1,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,5,3.0,243488
+156,Chalet individual,1924,1950,1,,0,Residencial unifamiliar,73.15,891.87,1,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,1,0,0,5,3.0,142275
+157,Chalet individual,1950,1950,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,213295
+158,Chalet individual,2009,2010,2,Antiguo,0,Residencial unifamiliar,112.17,1115.12,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,5,4.0,448737
+159,Chalet individual,2004,2005,2,Antiguo,0,Residencial especial,121.92,1166.12,3,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,3.5,424427
+160,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,163.37,1800.28,4,9,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,623328
+161,Chalet individual,1984,1984,1,Antiguo,0,Residencial unifamiliar,,1033.08,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50018,0,0,0,6,3.0,292653
+162,Chalet individual,2003,2004,2,Antiguo,0,Residencial unifamiliar,134.11,1271.66,4,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,742889
+163,Chalet individual,2005,2005,1,Antiguo,0,Residencial unifamiliar,115.82,1131.74,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,3.5,366316
+164,Chalet individual,1956,1956,1,,0,Residencial unifamiliar,67.06,510.97,1,4,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,2.0,193292
+165,Chalet individual,1926,2004,1,,0,Residencial tipo 2,48.77,501.68,2,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,7,3.0,284693
+166,Chalet adosado,1940,1999,3,,0,Residencial unifamiliar,75.59,938.88,3,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.5,229620
+167,Chalet individual,1955,1993,1,Antiguo,0,Residencial unifamiliar,,994.81,2,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,5,2.5,329019
+168,Chalet individual,2007,2007,2,Antiguo,0,Residencial unifamiliar,104.85,981.24,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,609888
+169,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,75.59,765.89,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,343692
+170,Chalet individual,1981,1981,1,Antiguo,0,Residencial unifamiliar,,1548.6,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,6,4.0,444121
+171,Chalet individual,1941,1950,1,,0,Residencial tipo 2,,1148.1,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61704,0,1,0,6,2.5,240678
+172,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,171.91,2951.53,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,3.0,357991
+173,Piso alto,1987,1987,2,Antiguo,1,Residencial unifamiliar,53.64,492.94,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,7,3.5,465548
+174,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,97.54,947.33,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,293554
+175,Chalet individual,1986,1986,1,Antiguo,0,Residencial unifamiliar,57.3,1153.48,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,3.0,331374
+176,Chalet individual,1950,2001,1,Antiguo,0,Residencial unifamiliar,102.41,1171.97,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,7,3.0,455134
+177,Chalet individual,1988,1989,2,Antiguo,0,Residencial unifamiliar,118.26,931.72,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62447,0,0,0,5,3.0,395199
+178,Chalet individual,1958,1958,1,,0,Residencial unifamiliar,,1268.13,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,336013
+179,Chalet individual,2008,2009,1,Antiguo,0,Residencial unifamiliar,76.81,1618.65,3,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50012,0,0,0,5,4.5,869019
+180,Chalet individual,1923,2006,1,Nuevo,0,Residencial tipo 2,73.15,791.53,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,2.5,187298
+181,Casa baja,2000,2000,2,Antiguo,1,Residencial especial,,196.68,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,331518
+182,Chalet individual,1920,1950,2,Nuevo,0,Residencial unifamiliar,65.84,704.95,2,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,6,3.5,389775
+183,Chalet individual,1957,2006,1,Antiguo,0,Residencial unifamiliar,73.15,841.7,1,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,1,0,0,6,2.5,224758
+184,Chalet individual,2003,2003,1,,0,Residencial tipo 2,76.81,1061.51,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,3.5,360189
+185,Chalet individual,1908,1991,1,,0,Residencial unifamiliar,112.17,691.01,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,1,0,8,2.5,247383
+186,Chalet individual,1892,1993,2,,0,Residencial tipo 2,109.73,2132.12,3,12,1,0,1,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,9,5.0,925253
+187,Chalet individual,1990,1991,2,,0,Residencial unifamiliar,,924.11,3,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,5,3.5,299580
+188,Chalet individual,1916,1987,1,,0,Residencial unifamiliar,73.15,967.12,3,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,2.5,233776
+189,Dúplex,1979,1979,2,,0,Residencial unifamiliar,78.03,651.99,4,6,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50015,0,1,0,5,2.5,265530
+190,Piso alto,2001,2002,1,Antiguo,1,Residencial unifamiliar,49.99,457.36,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,515070
+191,Chalet individual,1932,1994,2,Nuevo,0,Residencial unifamiliar,85.34,981.99,3,10,1,0,0,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,62451,0,0,0,8,4.0,589989
+192,Chalet individual,1972,2004,2,Antiguo,0,Residencial unifamiliar,,694.17,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50014,0,0,0,9,3.5,344629
+193,Chalet individual,1999,1999,1,Antiguo,0,Residencial unifamiliar,82.91,837.71,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,332482
+194,Casa baja,2004,2004,2,Antiguo,1,Residencial tipo 2,29.26,234.3,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.5,253227
+195,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,73.15,667.04,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,7,2.5,228720
+196,Casa baja,1976,1976,2,Antiguo,1,Residencial unifamiliar,29.26,211.82,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60646,0,0,0,6,3.0,257154
+197,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,96.32,874.78,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,584130
+198,Chalet individual,1918,1990,2,,0,Residencial unifamiliar,212.14,2361.5,4,8,1,1,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,1,0,0,4,4.0,457757
+199,Chalet individual,1912,1950,2,,0,Residencial tipo 2,112.17,512.82,1,8,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,6,3.0,180094
+200,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,92.66,891.03,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,476038
+201,Chalet individual,2003,2004,1,Antiguo,0,Residencial tipo 2,97.54,793.95,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,2.0,233110
+202,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,91.44,940.64,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,6,3.0,308862
+203,Chalet individual,1924,1950,1,,0,Residencial unifamiliar,60.96,650.32,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,1,0,0,6,3.0,218165
+204,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,,412.3,2,3,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,268341
+205,Chalet individual,1947,1950,1,,0,Residencial tipo 2,60.96,325.16,2,5,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,2.5,190484
+206,Chalet individual,1990,1990,1,Antiguo,0,Residencial unifamiliar,120.7,1100.99,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,312568
+207,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,48.77,1270.26,2,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,5,2.5,269522
+208,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,,1160.64,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.0,253933
+209,Chalet individual,1988,1989,2,Antiguo,0,Residencial unifamiliar,,1334.46,4,7,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,50015,0,0,0,5,3.5,518816
+210,Chalet individual,1964,1964,1,Antiguo,0,Residencial unifamiliar,91.44,766.45,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,3.0,261137
+211,Chalet individual,1925,1950,1,Nuevo,0,Residencial unifamiliar,81.69,520.63,2,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.5,176492
+212,Chalet individual,2009,2009,1,Antiguo,0,Residencial unifamiliar,101.19,968.05,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,3.0,309704
+213,Chalet individual,2009,2009,2,Antiguo,0,Residencial especial,87.78,802.68,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,437557
+214,Chalet individual,1995,1995,1,Antiguo,0,Residencial unifamiliar,52.43,1260.51,2,5,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,2.5,303872
+215,Chalet individual,1977,1977,2,Antiguo,0,Residencial unifamiliar,,1012.64,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,60061,0,0,0,7,3.0,269326
+216,Chalet individual,1957,1996,1,Antiguo,0,Residencial unifamiliar,87.78,930.05,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,261895
+217,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,79.25,785.03,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,378198
+218,Chalet individual,1925,1950,2,Nuevo,0,Residencial tipo 2,69.49,920.3,1,8,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,4,2.0,208425
+219,Chalet individual,1939,2006,1,,0,Residencial unifamiliar,,1454.86,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62451,0,0,0,9,3.5,560994
+220,Piso alto,2005,2006,1,Antiguo,1,Residencial unifamiliar,52.43,279.64,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,325767
+221,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,89.0,835.2,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,399125
+222,Chalet individual,2002,2002,2,Antiguo,0,Residencial unifamiliar,,749.54,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,346335
+223,Chalet individual,1975,1975,2,Antiguo,0,Residencial unifamiliar,103.63,1066.06,4,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,350427
+224,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,85.34,975.48,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50014,0,0,0,6,2.0,167973
+225,Chalet individual,2003,2003,1,Antiguo,0,Residencial unifamiliar,125.58,1251.59,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,5.0,668860
+226,Casa baja,1971,1971,2,Antiguo,1,Residencial tipo 2,25.6,156.08,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,2.5,193948
+227,Chalet individual,1995,1995,2,Antiguo,0,Residencial unifamiliar,99.97,924.39,3,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,3.5,543165
+228,Casa baja,1970,1970,2,Antiguo,1,Residencial tipo 2,25.6,173.64,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,6,3.0,190900
+229,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,85.34,791.63,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50010,0,1,0,5,2.5,208134
+230,Piso alto,2005,2006,1,Antiguo,1,Residencial unifamiliar,52.43,295.62,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,333348
+231,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,89.0,813.83,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,246431
+232,Chalet individual,1995,1996,2,Antiguo,0,Residencial unifamiliar,212.14,1406.37,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,697866
+233,Casa baja,1972,1972,2,Antiguo,1,Residencial tipo 2,25.6,156.08,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,3.0,184077
+234,Chalet individual,1976,1976,1,Antiguo,0,Residencial unifamiliar,91.44,989.42,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,6,2.5,213462
+235,Chalet individual,2002,2002,2,Antiguo,0,Residencial unifamiliar,,729.38,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,360488
+236,Piso alto,1971,1971,2,Antiguo,1,Residencial tipo 2,25.6,156.08,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,3,3.0,161184
+237,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,79.25,815.04,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60061,0,0,0,5,3.5,308871
+238,Chalet individual,1993,2003,2,Antiguo,0,Residencial unifamiliar,,878.21,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50015,0,0,1,7,3.5,323857
+239,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,113.39,1117.62,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,595608
+240,Chalet individual,1945,1950,1,,0,Residencial unifamiliar,63.4,812.07,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,4,3.0,188153
+241,Chalet individual,2008,2008,1,Antiguo,0,Residencial especial,91.44,836.13,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,437082
+242,Chalet individual,1945,1997,1,Nuevo,0,Residencial tipo 2,48.77,360.46,1,4,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,9,2.5,206964
+243,Chalet individual,1900,1950,1,,0,Residencial tipo 2,76.81,464.52,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,4,2.5,153884
+244,Piso alto,1980,1980,2,Antiguo,1,Residencial unifamiliar,91.44,999.82,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,6,3.0,207801
+245,Chalet individual,1994,2002,2,Antiguo,0,Residencial unifamiliar,,824.98,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,341340
+246,Chalet individual,1988,1988,1,Antiguo,0,Residencial unifamiliar,97.54,966.19,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,470418
+247,Chalet adosado,1910,1950,3,,0,Residencial tipo 2,84.12,849.32,2,9,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,3.0,266862
+248,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,91.44,1050.73,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,272706
+249,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,87.78,1051.38,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,337137
+250,Chalet individual,1958,2006,1,,0,Residencial unifamiliar,,14771.58,3,7,1,0,0,1,0,Algo irregular,Muy irregular,Elevado,1,1,0,Trasero,62447,0,0,0,7,3.0,518816
+251,Chalet individual,1940,1966,1,Nuevo,0,Residencial unifamiliar,67.06,497.03,1,6,0,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,2,1.5,127378
+252,Piso alto,2006,2007,1,Antiguo,1,Residencial tipo 2,53.64,441.29,4,5,1,0,0,1,0,Poco irregular,Inclinación lateral,Moderado,1,1,0,Interior,62451,0,0,0,5,4.0,440151
+253,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,79.25,777.23,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,311563
+254,Chalet individual,1964,1991,2,,0,Residencial unifamiliar,103.63,868.64,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,3.0,295931
+255,Chalet individual,1957,1957,1,Antiguo,0,Residencial unifamiliar,85.34,780.39,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,241436
+256,Chalet individual,1999,1999,2,Antiguo,0,Residencial unifamiliar,80.47,811.79,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,448017
+257,Chalet individual,2003,2003,2,Antiguo,0,Residencial especial,78.03,816.71,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,373696
+258,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,82.91,818.85,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,380969
+259,Chalet individual,2001,2001,2,Antiguo,0,Residencial unifamiliar,97.54,1155.25,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,416918
+260,Chalet individual,1956,1956,1,Antiguo,0,Residencial tipo 2,85.34,1180.05,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,2.5,174692
+261,Chalet individual,1962,1962,2,,0,Residencial unifamiliar,146.3,1792.66,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,1,0,0,5,3.0,304775
+262,Chalet individual,2007,2007,2,Antiguo,0,Residencial unifamiliar,84.12,890.75,3,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,516943
+263,Chalet individual,1977,1995,2,,0,Residencial unifamiliar,107.29,786.98,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50010,0,0,0,7,3.0,294133
+264,Chalet individual,1929,2001,1,,0,Residencial tipo 2,60.96,510.97,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,7,2.5,216460
+265,Chalet individual,1925,2004,1,Nuevo,0,Residencial tipo 2,36.58,486.07,1,4,1,0,0,1,1,Muy irregular,Inclinación frontal,Ligero,1,1,0,Interior,61704,1,0,0,5,2.5,131469
+266,Chalet individual,1981,1981,1,Antiguo,0,Residencial unifamiliar,95.1,1123.2,2,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,316066
+267,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,85.34,1041.16,4,8,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Frontal 2 lados,60118,0,0,0,5,3.0,360362
+268,Chalet individual,1939,1997,2,,0,Residencial unifamiliar,73.15,780.39,3,8,1,0,0,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,50011,0,0,0,8,2.5,323269
+269,Chalet individual,1940,1955,1,Nuevo,0,Residencial tipo 2,86.56,641.03,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,6,2.5,217014
+270,Chalet individual,1976,1976,1,Antiguo,0,Residencial unifamiliar,,735.51,3,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,7,3.0,277201
+271,Chalet individual,2006,2006,2,Antiguo,0,Residencial especial,102.41,996.66,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,518142
+272,Chalet individual,1954,2005,1,Antiguo,0,Residencial unifamiliar,89.0,3632.88,2,5,1,0,0,1,0,Poco irregular,Muy irregular,Elevado,1,1,0,Trasero,62447,0,0,0,7,3.5,434928
+273,Chalet individual,1999,2007,2,Antiguo,0,Residencial unifamiliar,112.17,1092.91,3,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,7,4.0,482871
+274,Chalet individual,1958,1988,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,1,0,6,3.0,240703
+275,Chalet individual,1982,1982,1,Antiguo,0,Residencial unifamiliar,92.66,772.4,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62040,0,0,0,7,2.5,233186
+276,Chalet individual,1925,2007,1,,0,Residencial unifamiliar,67.06,674.85,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,3.5,354994
+277,Chalet individual,2003,2003,1,Antiguo,0,Residencial unifamiliar,157.28,854.34,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,3.5,334680
+278,Chalet individual,1951,1951,1,Antiguo,0,Residencial unifamiliar,170.69,1777.98,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,2.0,234775
+279,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,130.45,1342.45,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,777845
+280,Chalet individual,1977,1977,2,Antiguo,0,Residencial unifamiliar,101.19,929.49,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,5,3.5,345781
+281,Chalet individual,1989,1989,2,Antiguo,0,Residencial unifamiliar,99.97,1048.6,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,6,3.5,427976
+282,Chalet individual,2006,2006,1,Antiguo,0,Residencial especial,73.15,668.9,2,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,360362
+283,Casa baja,2007,2008,1,Antiguo,1,Residencial unifamiliar,41.45,470.37,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,359323
+284,Chalet individual,2008,2009,1,Antiguo,0,Residencial unifamiliar,90.22,892.98,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,1,0,5,4.0,423568
+285,Piso alto,1992,1992,1,Antiguo,1,Residencial unifamiliar,60.96,744.34,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,335638
+286,Piso alto,2006,2007,2,Antiguo,1,Residencial especial,42.67,394.93,3,5,1,0,0,1,1,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,308480
+287,Chalet individual,1962,1981,1,,0,Residencial unifamiliar,93.88,909.15,2,7,1,0,1,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,50014,0,0,0,7,3.0,309716
+288,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,,754.84,1,5,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,4,2.0,171415
+289,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,,912.21,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,203139
+290,Chalet individual,1915,2003,2,Nuevo,0,Residencial unifamiliar,73.15,811.04,1,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,3.0,287643
+291,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,146.3,1450.31,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,454309
+292,Chalet adosado,1912,2000,3,,0,Residencial unifamiliar,67.06,528.34,3,9,0,0,0,1,1,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50011,0,0,0,6,2.5,244748
+293,Chalet individual,1949,2008,1,,0,Residencial unifamiliar,73.15,1059.93,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,4,2.5,226850
+294,Chalet individual,1977,1994,2,Antiguo,0,Residencial unifamiliar,,1547.67,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,7,3.5,457757
+295,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,289190
+296,Chalet individual,1984,1984,2,,0,Residencial unifamiliar,45.11,737.37,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,6,3.0,277576
+297,Chalet individual,1950,1950,1,,0,Residencial tipo 2,91.44,1273.7,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,5,2.5,284693
+298,Chalet individual,1997,1998,2,Antiguo,0,Residencial especial,80.47,687.39,3,7,1,0,0,1,1,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,447643
+299,Chalet individual,1968,1968,2,Antiguo,0,Residencial unifamiliar,109.73,1086.97,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,327772
+300,Chalet individual,1950,2004,1,Antiguo,0,Residencial unifamiliar,97.54,1300.64,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,8,3.0,274471
+301,Chalet adosado,1953,1953,3,,0,Residencial unifamiliar,109.73,1463.22,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62451,0,0,0,5,2.5,305820
+302,Chalet individual,1998,1999,2,Antiguo,0,Residencial unifamiliar,80.47,1507.44,3,9,1,0,0,1,0,Muy irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,500086
+303,Chalet individual,2001,2002,1,Antiguo,0,Residencial unifamiliar,143.87,1273.14,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,3.5,399320
+304,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,85.34,910.45,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,7,2.5,291990
+305,Chalet individual,1880,2002,2,,0,Residencial tipo 2,106.07,1708.12,3,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,9,3.5,531278
+306,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,97.54,964.89,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,572945
+307,Chalet individual,1990,1991,2,Antiguo,0,Residencial unifamiliar,141.43,1251.78,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,1,0,5,3.5,421421
+308,Chalet individual,1920,1950,1,,0,Residencial tipo 2,,735.79,1,6,0,0,1,1,1,Poco irregular,Llana,Ligero,1,1,0,Interior,60406,1,0,0,7,3.0,161184
+309,Chalet individual,1940,1950,1,Nuevo,0,Residencial unifamiliar,,1146.61,1,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.0,142863
+310,Chalet individual,2003,2004,1,Antiguo,0,Residencial unifamiliar,109.73,1149.95,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,701244
+311,Chalet individual,1993,1994,2,Antiguo,0,Residencial unifamiliar,,713.96,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,322572
+312,Chalet individual,1948,2002,1,Antiguo,0,Residencial unifamiliar,60.96,743.22,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,228581
+313,Chalet adosado,1939,1950,3,,0,Residencial tipo 2,79.25,724.64,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,7,2.5,233553
+314,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,182.88,19996.91,4,8,1,0,0,1,0,Muy irregular,Muy irregular,Elevado,1,1,0,Interior,50017,0,0,0,5,3.5,649379
+315,Chalet individual,1925,1990,2,Nuevo,0,Residencial tipo 2,73.15,891.87,3,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,3.5,346726
+316,Chalet individual,2004,2005,2,Antiguo,0,Residencial unifamiliar,86.56,724.18,4,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,326421
+317,Chalet individual,1980,1980,2,Antiguo,0,Residencial unifamiliar,114.6,1208.2,4,10,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,7,3.5,450236
+318,Chalet individual,2006,2006,2,Antiguo,0,Residencial especial,91.44,836.13,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,505705
+319,Chalet individual,1993,1993,2,Antiguo,0,Residencial unifamiliar,109.73,919.74,4,9,1,0,0,1,0,Rectangular,Muy irregular,Moderado,1,1,0,Interior,60706,0,0,0,5,3.5,450236
+320,Chalet individual,1980,1980,2,,0,Residencial unifamiliar,,1311.33,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,324689
+321,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,135.33,1510.51,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,4.5,667434
+322,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,120.7,1124.03,4,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,663035
+323,Chalet individual,1986,1987,2,Antiguo,0,Residencial unifamiliar,104.85,964.33,4,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,563767
+324,Chalet individual,1955,2005,1,Antiguo,0,Residencial tipo 2,59.74,540.7,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,1.5,245776
+325,Chalet individual,1967,2007,2,,0,Residencial unifamiliar,117.04,1047.48,3,11,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,3.5,402948
+326,Chalet individual,1941,1950,1,,0,Residencial tipo 2,60.96,464.52,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,6,2.5,162949
+327,Piso alto,1993,1993,1,Antiguo,1,Residencial unifamiliar,39.01,1007.63,4,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50018,0,0,0,5,4.0,583506
+328,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,97.54,1077.68,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,282933
+329,Chalet individual,1916,1994,2,,0,Residencial unifamiliar,,1104.43,2,10,1,0,0,1,1,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,62801,0,0,0,6,3.0,371445
+330,Chalet individual,1920,1950,2,Nuevo,0,Residencial tipo 2,73.15,594.77,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60406,0,0,0,5,2.5,135071
+331,Dúplex,1964,1964,2,,0,Residencial unifamiliar,,987.0,3,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,4,2.5,222885
+332,Chalet individual,1958,1992,1,Antiguo,0,Residencial unifamiliar,85.34,759.58,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,260344
+333,Chalet individual,2003,2004,1,Antiguo,0,Residencial unifamiliar,103.63,989.88,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,491796
+334,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,71.93,761.62,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 3 lados,60645,0,0,0,5,3.5,372795
+335,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,71.93,840.03,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,345781
+336,Chalet adosado,1965,1965,3,,0,Residencial unifamiliar,,15297.41,4,7,1,0,0,0,0,Poco irregular,Inclinación lateral,Elevado,1,1,0,Esquina,50017,0,0,0,6,2.5,412326
+337,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,104.85,1315.23,3,8,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Esquina,50012,0,0,0,5,4.5,706912
+338,Chalet individual,2002,2003,1,Antiguo,0,Residencial unifamiliar,85.34,848.67,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,385402
+339,Chalet individual,1984,1998,1,Antiguo,0,Residencial unifamiliar,110.95,1314.11,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,7,3.5,394450
+340,Chalet individual,1958,1998,1,Antiguo,0,Residencial unifamiliar,80.47,1152.0,1,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,1,0,7,3.0,268410
+341,Chalet individual,2002,2002,2,Antiguo,0,Residencial unifamiliar,103.63,1318.39,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,337843
+342,Chalet individual,1950,1950,1,Antiguo,0,Residencial tipo 1,73.15,780.39,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,1,0,4,2.0,141997
+343,Dúplex,1949,1950,2,,0,Residencial unifamiliar,,793.76,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,4,1.5,170441
+344,Piso alto,2005,2005,1,Antiguo,1,Residencial unifamiliar,76.81,822.1,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,479051
+345,Piso alto,1976,1976,2,Antiguo,1,Residencial tipo 2,43.89,240.8,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,3,2.5,141531
+346,Chalet individual,1939,1950,1,,0,Residencial unifamiliar,79.25,597.83,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,5,3.0,273096
+347,Chalet individual,1960,1998,1,Antiguo,0,Residencial unifamiliar,,1186.56,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50014,0,0,0,8,3.0,283757
+348,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,,1635.09,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,272739
+349,Casa baja,2003,2004,2,Antiguo,1,Residencial unifamiliar,43.89,227.43,4,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,277345
+350,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,68.28,1898.1,4,10,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,851532
+351,Piso alto,2007,2007,1,Antiguo,1,Residencial unifamiliar,82.91,726.5,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,595722
+352,Chalet individual,1986,1986,1,Antiguo,1,Residencial unifamiliar,,489.69,3,6,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,62447,0,0,0,5,3.5,370101
+353,Chalet individual,1941,1950,1,,0,Residencial unifamiliar,73.15,843.93,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,1,0,0,6,2.5,171090
+354,Chalet individual,1928,2003,1,Nuevo,0,Residencial tipo 2,73.15,791.53,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,3.0,176331
+355,Chalet individual,1940,2000,1,,0,Residencial unifamiliar,73.15,780.39,1,6,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,272706
+356,Chalet individual,1995,1995,1,Antiguo,0,Residencial unifamiliar,128.02,1045.07,3,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,332454
+357,Chalet individual,1992,1992,1,Antiguo,0,Residencial unifamiliar,,859.17,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,6,3.0,299580
+358,Piso alto,1976,1976,1,Antiguo,1,Residencial tipo 2,53.64,392.42,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,5,2.5,250979
+359,Chalet individual,1958,1958,2,,0,Residencial unifamiliar,112.17,643.82,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,4,2.5,253227
+360,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,95.1,1115.86,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,5,4.0,545412
+361,Chalet individual,1978,1978,2,,0,Residencial unifamiliar,,700.49,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,6,3.0,292185
+362,Chalet individual,1940,1982,1,,0,Residencial unifamiliar,,849.51,2,8,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,5,2.5,261137
+363,Chalet individual,2003,2003,2,,0,Residencial unifamiliar,78.03,678.29,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,3.5,343738
+364,Casa baja,1972,2007,2,Antiguo,1,Residencial tipo 2,25.6,156.08,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,8,3.0,204338
+365,Chalet individual,1976,1976,2,Antiguo,0,Residencial unifamiliar,,1746.58,4,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50012,0,0,0,5,3.0,370101
+366,Chalet individual,1920,1997,2,Nuevo,0,Residencial tipo 2,71.93,993.13,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,7,2.5,254556
+367,Chalet individual,1963,1963,1,Antiguo,0,Residencial unifamiliar,,882.58,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,275337
+368,Chalet individual,1962,1962,2,,0,Residencial unifamiliar,123.14,850.06,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,3.0,297156
+369,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,95.1,724.64,1,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,219790
+370,Chalet individual,1959,2006,1,Antiguo,0,Residencial unifamiliar,,913.24,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,2.5,269742
+371,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,,754.47,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,335818
+372,Chalet individual,1959,1959,1,,0,Residencial unifamiliar,97.54,1590.5,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62447,0,1,0,4,2.0,242104
+373,Piso alto,1984,1984,1,Antiguo,1,Residencial unifamiliar,60.96,666.58,2,4,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,208134
+374,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,96.32,987.93,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,212996
+375,Chalet individual,2003,2004,2,Antiguo,0,Residencial unifamiliar,79.25,761.8,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,411119
+376,Chalet individual,1922,1950,1,Nuevo,0,Residencial unifamiliar,,930.89,2,4,0,0,0,1,0,Poco irregular,Muy irregular,Elevado,1,1,0,Interior,61528,0,0,0,1,0.5,105632
+377,Chalet individual,1996,1996,2,,0,Residencial unifamiliar,69.49,821.82,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,2.5,288289
+378,Chalet individual,2004,2005,2,Antiguo,0,Residencial especial,124.36,1035.22,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,4.0,636814
+379,Chalet individual,2010,2010,1,Antiguo,0,Residencial unifamiliar,107.29,1058.54,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,2,4.5,656758
+380,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,73.15,754.65,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,309970
+381,Chalet individual,1924,1950,1,,0,Residencial unifamiliar,60.96,464.52,2,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,6,2.5,211464
+382,Chalet individual,2006,2006,1,Antiguo,0,Residencial especial,73.15,668.9,3,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,365718
+383,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,96.32,858.89,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,399881
+384,Chalet individual,1928,1950,1,,0,Residencial tipo 1,73.15,836.13,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,3,3.0,131607
+385,Chalet individual,1992,1992,2,Antiguo,0,Residencial unifamiliar,,4933.8,4,9,1,0,0,1,0,Algo irregular,Muy irregular,Moderado,1,1,0,Esquina,62447,0,1,0,5,3.0,449515
+386,Piso alto,2004,2005,1,Antiguo,1,Residencial unifamiliar,52.43,295.62,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,4.0,319694
+387,Chalet individual,1910,1996,1,,0,Residencial unifamiliar,70.71,781.31,1,8,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,61528,0,1,0,3,2.5,157780
+388,Chalet individual,1976,1976,2,,0,Residencial unifamiliar,87.78,668.9,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,3.0,216460
+389,Chalet individual,1999,2000,1,Antiguo,0,Residencial unifamiliar,113.39,871.62,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,3.5,343980
+390,Chalet individual,2007,2008,2,Antiguo,0,Residencial unifamiliar,117.04,1158.87,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,5.0,767202
+391,Chalet individual,1900,1950,1,,0,Residencial unifamiliar,60.96,780.85,2,7,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,8,2.5,214312
+392,Chalet individual,2001,2002,2,Antiguo,0,Residencial unifamiliar,86.56,1134.25,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,5,3.0,372310
+393,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,,774.72,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,199473
+394,Chalet individual,1941,1950,1,Nuevo,0,Residencial unifamiliar,,691.76,1,4,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,0,1,0,5,2.0,194790
+395,Chalet individual,1940,1950,1,,0,Residencial unifamiliar,73.15,941.48,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,2.5,204155
+396,Chalet individual,1956,1956,1,Antiguo,0,Residencial unifamiliar,82.91,889.17,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.5,214794
+397,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,6,1,0,0,1,0,Rectangular,Muy irregular,Ligero,1,1,0,Interior,60061,0,0,0,5,2.5,212996
+398,Chalet individual,1962,1962,2,Antiguo,0,Residencial unifamiliar,84.12,705.13,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,317470
+399,Chalet individual,1920,1950,1,Nuevo,0,Residencial tipo 2,73.15,833.06,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60406,0,0,0,2,2.5,125490
+400,Chalet individual,2006,2007,2,Antiguo,0,Residencial especial,79.25,754.84,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,417334
+401,Piso alto,1996,1996,1,Antiguo,1,Residencial unifamiliar,46.33,1390.11,3,4,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,50018,0,0,0,5,4.0,442132
+402,Chalet individual,2005,2005,1,Antiguo,0,Residencial unifamiliar,79.25,814.48,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,321384
+403,Chalet individual,1940,1997,1,Nuevo,0,Residencial unifamiliar,73.15,947.61,1,4,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,8,2.5,194502
+404,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,113.39,1123.2,3,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60706,0,0,0,5,4.0,502558
+405,Chalet individual,1995,1996,2,Antiguo,0,Residencial unifamiliar,,962.85,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,314661
+406,Chalet individual,1976,1993,1,Antiguo,0,Residencial unifamiliar,,928.19,3,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50010,0,1,0,4,2.0,259751
+407,Chalet individual,1936,1950,1,,0,Residencial unifamiliar,62.18,973.62,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,207109
+408,Chalet individual,1915,1976,2,Nuevo,0,Residencial unifamiliar,76.81,1447.06,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,7,3.0,318767
+409,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,132.89,1314.95,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,3.5,524435
+410,Chalet individual,2007,2008,2,Antiguo,0,Residencial especial,103.63,1003.35,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,611871
+411,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,82.91,889.17,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,3,2.5,103901
+412,Chalet adosado,1955,1955,3,,0,Residencial unifamiliar,121.92,3219.09,2,5,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,60118,0,0,0,5,2.5,282446
+413,Chalet individual,2009,2009,1,Antiguo,0,Residencial especial,,409.05,4,7,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,369646
+414,Chalet individual,1927,1950,1,Nuevo,0,Residencial tipo 2,68.28,832.41,1,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,6,2.5,191483
+415,Chalet individual,1993,1993,2,Antiguo,0,Residencial unifamiliar,71.93,1043.12,4,9,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,50015,0,0,0,5,3.5,410615
+416,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,89.0,826.74,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,339261
+417,Chalet individual,1978,1978,2,Antiguo,0,Residencial unifamiliar,90.22,728.73,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,3.0,291211
+418,Chalet individual,1918,1950,2,Nuevo,0,Residencial unifamiliar,104.85,2082.89,4,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62451,0,1,0,6,3.0,447643
+419,Chalet individual,1940,1950,1,,0,Residencial unifamiliar,73.15,758.09,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.5,235996
+420,Chalet individual,1968,1968,1,Antiguo,0,Residencial unifamiliar,79.25,785.03,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,236440
+421,Dúplex,1997,1998,2,,0,Residencial tipo 2,95.1,655.9,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,3.5,371535
+422,Chalet individual,1977,2000,1,Antiguo,0,Residencial unifamiliar,,1545.44,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50012,0,0,0,7,3.0,372310
+423,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,121.92,2020.64,1,4,1,0,0,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,62040,1,0,0,5,2.5,203507
+424,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,97.54,854.71,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,567297
+425,Chalet individual,1956,1956,1,Antiguo,0,Residencial unifamiliar,87.78,836.13,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,250331
+426,Chalet individual,1946,1992,2,Antiguo,0,Residencial tipo 2,73.15,313.83,2,6,1,0,0,1,1,Rectangular,Inclinación lateral,Ligero,1,1,0,Interior,61704,0,0,0,8,3.5,233776
+427,Chalet individual,1989,1989,2,,0,Residencial unifamiliar,,1189.16,4,5,1,0,0,1,0,Rectangular,Muy irregular,Moderado,1,1,0,Interior,50015,0,0,0,5,3.5,476211
+428,Chalet individual,1957,1957,1,Antiguo,0,Residencial unifamiliar,93.88,798.32,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.0,196317
+429,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,78.03,628.21,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,365981
+430,Chalet individual,1988,1988,1,Antiguo,0,Residencial unifamiliar,158.5,1064.39,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,5,3.0,303043
+431,Casa baja,1971,1971,2,Antiguo,1,Residencial tipo 2,25.6,156.08,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,3.0,153801
+432,Chalet individual,1920,1998,1,,0,Residencial tipo 2,73.15,518.96,1,7,0,0,1,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,61704,0,1,0,7,3.0,143895
+433,Piso alto,1971,1971,2,Antiguo,1,Residencial tipo 2,29.26,178.37,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,2.5,229440
+434,Chalet individual,1997,1998,2,Antiguo,0,Residencial unifamiliar,121.92,1006.98,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.0,325971
+435,Casa baja,1972,1972,2,,1,Residencial tipo 2,25.6,175.59,2,3,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,7,2.0,145876
+436,Chalet individual,1996,1996,2,Antiguo,0,Residencial unifamiliar,52.43,991.0,4,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,6,3.5,367115
+437,Chalet individual,1920,1950,1,,0,Residencial tipo 2,48.77,408.77,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,3.0,225956
+438,Chalet individual,1926,2004,1,,0,Residencial tipo 2,60.96,557.42,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,3.0,206069
+439,Chalet individual,1913,2002,1,Nuevo,0,Residencial unifamiliar,48.77,397.63,1,4,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,6,2.5,169224
+440,Chalet individual,1920,2000,1,,0,Residencial unifamiliar,81.69,1147.72,1,7,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,8,3.0,190484
+441,Chalet individual,2008,2008,1,Antiguo,0,Residencial unifamiliar,128.02,1433.59,3,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,5.0,961080
+442,Dúplex,1955,1955,2,,0,Residencial unifamiliar,112.17,1124.87,2,8,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,4,2.0,212511
+443,Chalet individual,1930,1992,1,,0,Residencial tipo 2,63.4,579.71,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,2.5,293374
+444,Piso alto,2006,2007,1,Antiguo,1,Residencial unifamiliar,64.62,364.37,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,323089
+445,Chalet individual,1994,1995,2,Antiguo,0,Residencial unifamiliar,85.34,812.9,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,378198
+446,Chalet individual,1956,1956,1,Antiguo,0,Residencial unifamiliar,89.0,915.56,1,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,5,3.0,220789
+447,Chalet individual,1966,2002,1,Antiguo,0,Residencial unifamiliar,167.03,1532.16,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,3.0,316364
+448,Chalet individual,1998,1999,2,Antiguo,0,Residencial unifamiliar,,1041.81,3,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,389385
+449,Chalet individual,1937,1950,1,,0,Residencial tipo 2,60.96,798.97,2,7,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,60406,0,0,0,6,3.0,232774
+450,Chalet individual,1948,2002,1,,0,Residencial tipo 2,60.96,557.42,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,1.5,224758
+451,Chalet individual,1930,2005,1,Nuevo,0,Residencial tipo 2,85.34,528.06,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,3.0,214269
+452,Chalet individual,1975,1975,1,Antiguo,0,Residencial unifamiliar,75.59,6573.91,3,5,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,62447,0,0,0,5,3.5,545412
+453,Chalet individual,1996,1997,2,Antiguo,0,Residencial unifamiliar,,864.28,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,5,3.0,382088
+454,Chalet individual,2008,2008,2,Antiguo,0,Residencial especial,91.44,836.13,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,363652
+455,Dúplex,1976,1976,2,,0,Residencial unifamiliar,76.81,863.72,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,2.5,366205
+456,Chalet individual,1973,1973,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.5,328708
+457,Chalet individual,1916,1950,2,Nuevo,0,Residencial tipo 2,41.45,424.66,1,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,2.5,176492
+458,Chalet individual,1954,1994,1,Antiguo,0,Residencial unifamiliar,,4944.95,2,6,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Trasero,62447,0,0,0,6,2.0,461042
+459,Chalet individual,1925,1996,2,Nuevo,0,Residencial tipo 2,,473.81,1,7,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,4.0,289952
+460,Chalet individual,1950,1950,1,,0,Residencial unifamiliar,,651.71,2,5,1,0,0,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Esquina,62801,0,0,0,4,2.5,190484
+461,Chalet individual,2009,2009,2,Antiguo,0,Residencial especial,91.44,743.6,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,456184
+462,Chalet individual,1936,2007,2,Nuevo,0,Residencial unifamiliar,73.15,668.9,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,1,0,9,3.5,268410
+463,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,73.15,769.33,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,108027
+464,Chalet individual,1934,1995,2,Nuevo,0,Residencial unifamiliar,90.22,1113.72,2,6,1,0,0,1,0,Poco irregular,Inclinación lateral,Moderado,1,1,0,Interior,62451,0,0,0,7,3.0,339838
+465,Chalet individual,1978,1978,1,Antiguo,0,Residencial unifamiliar,73.15,783.17,2,5,0,0,0,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,60061,0,0,0,5,2.5,214728
+466,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,,285.4,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,348168
+467,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,103.63,987.37,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.5,312788
+468,Chalet individual,1942,1995,2,Nuevo,0,Residencial unifamiliar,96.32,880.72,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,1,0,0,7,2.5,274392
+469,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,119.48,1061.7,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,468245
+470,Chalet individual,1993,1993,2,Antiguo,0,Residencial unifamiliar,92.66,863.16,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50015,0,0,1,5,3.0,336776
+471,Piso alto,1985,1985,1,Antiguo,1,Residencial unifamiliar,,633.6,3,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,5,4.0,352996
+472,Chalet individual,1977,1977,2,Antiguo,0,Residencial unifamiliar,112.17,1110.38,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.5,355866
+473,Piso alto,2005,2005,2,,1,Residencial tipo 2,42.67,341.42,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.0,266540
+474,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,134.11,1391.41,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,824112
+475,Piso alto,2000,2000,1,Antiguo,1,Residencial unifamiliar,49.99,495.17,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,470118
+476,Chalet individual,1963,1963,1,Antiguo,0,Residencial unifamiliar,97.54,787.82,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50010,0,0,0,6,2.5,248170
+477,Chalet individual,1997,1998,1,Antiguo,0,Residencial unifamiliar,91.44,1219.35,3,7,1,0,0,1,0,Rectangular,Llana,Moderado,1,1,0,Interior,60061,0,0,0,5,3.0,376217
+478,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,128.02,1272.12,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,711733
+479,Chalet individual,2007,2008,1,Antiguo,0,Residencial unifamiliar,96.32,988.21,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,514308
+480,Chalet individual,1937,2000,1,Nuevo,0,Residencial tipo 2,60.96,550.45,1,7,1,0,1,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,61704,0,0,0,7,2.0,167578
+481,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,119.48,1489.51,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,60645,0,0,0,5,4.5,635016
+482,Chalet individual,2003,2004,1,Antiguo,0,Residencial unifamiliar,87.78,1100.53,3,6,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,728515
+483,Chalet individual,1915,2005,2,Nuevo,0,Residencial tipo 2,60.96,232.26,3,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,8,3.5,268410
+484,Casa baja,1998,1998,1,Antiguo,1,Residencial tipo 2,39.01,418.06,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,62040,0,0,0,5,3.0,319456
+485,Chalet individual,1962,2001,1,Antiguo,0,Residencial unifamiliar,,720.74,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50010,0,0,0,7,2.5,248170
+486,Chalet individual,1950,2007,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,254556
+487,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,96.32,955.88,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,292185
+488,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,85.34,1137.41,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,2.5,327772
+489,Chalet adosado,1900,1970,3,,0,Residencial unifamiliar,73.15,1003.35,2,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,4,2.5,311664
+490,Casa baja,1970,2002,2,,1,Residencial tipo 2,25.6,141.77,2,3,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,8,2.0,148924
+491,Piso alto,1976,1976,2,Antiguo,1,Residencial tipo 2,,247.59,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,6,2.5,207109
+492,Chalet individual,1941,1950,1,,0,Residencial unifamiliar,96.32,881.65,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,1,0,0,7,3.0,259071
+493,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,128.02,1447.24,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.0,336568
+494,Chalet individual,1960,1960,1,Antiguo,0,Residencial unifamiliar,85.34,736.81,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,279146
+495,Chalet individual,1938,1996,1,Nuevo,0,Residencial tipo 2,60.96,537.35,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,8,2.5,158102
+496,Chalet individual,1920,1950,1,Nuevo,0,Terciario,73.15,731.98,1,4,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,5,2.0,60436
+497,Chalet individual,1992,1993,1,Antiguo,0,Residencial unifamiliar,,1179.13,4,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,805382
+498,Chalet individual,1925,1950,1,,0,Residencial unifamiliar,73.15,847.28,3,8,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,3.5,331374
+499,Chalet individual,1967,2004,1,Antiguo,0,Residencial unifamiliar,79.25,724.64,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,2.5,225118
+500,Chalet individual,1958,1985,1,Antiguo,0,Residencial unifamiliar,85.34,700.02,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,224758
+501,Casa baja,1973,1973,2,Antiguo,1,Residencial tipo 2,25.6,175.59,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,3.0,211647
+502,Chalet individual,2005,2005,2,Antiguo,0,Residencial especial,91.44,910.73,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,408274
+503,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,85.34,851.92,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,1,0,7,2.5,262217
+504,Chalet individual,1959,1997,1,Antiguo,0,Residencial unifamiliar,121.92,1449.47,3,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,8,3.5,481206
+505,Piso alto,1974,1974,2,Antiguo,1,Residencial unifamiliar,29.26,214.42,4,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60646,0,0,0,5,3.0,254556
+506,Dúplex,1952,1952,2,,0,Residencial tipo 2,73.15,705.69,2,10,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,5,2.5,215594
+507,Chalet individual,1993,1994,2,Antiguo,0,Residencial unifamiliar,97.54,887.6,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,4.0,418799
+508,Chalet individual,2009,2009,1,Antiguo,0,Residencial especial,91.44,730.4,2,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,360708
+509,Chalet individual,1928,2005,2,Nuevo,0,Residencial tipo 2,73.15,891.87,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,9,3.5,289952
+510,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,2.5,215594
+511,Chalet individual,1951,2000,1,Antiguo,0,Residencial unifamiliar,91.44,1352.58,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,285553
+512,Piso alto,2005,2006,1,Antiguo,1,Residencial unifamiliar,48.77,631.0,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,394771
+513,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,85.34,845.42,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,1,0,5,2.5,253032
+514,Chalet individual,1983,1983,1,Antiguo,0,Residencial unifamiliar,86.56,853.5,2,5,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Esquina,62040,0,0,0,5,3.0,250979
+515,Chalet individual,1926,1950,1,,0,Residencial unifamiliar,67.06,984.21,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,5,2.5,180743
+516,Chalet individual,2009,2009,1,Antiguo,0,Residencial unifamiliar,114.6,1135.28,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,5.0,697625
+517,Chalet individual,1972,1972,2,,0,Residencial unifamiliar,,970.65,3,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,6,3.0,273605
+518,Chalet individual,1996,1997,2,Antiguo,0,Residencial unifamiliar,96.32,948.35,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,3.5,458894
+519,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,,885.46,4,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,3.0,395199
+520,Chalet individual,1926,2004,2,Nuevo,0,Residencial unifamiliar,64.62,1014.32,2,9,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,9,3.5,405212
+521,Chalet adosado,1900,2000,3,,0,Residencial unifamiliar,73.15,1003.35,2,7,0,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,2.0,191350
+522,Chalet individual,1957,1957,1,Antiguo,0,Residencial unifamiliar,109.73,1113.72,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,1,0,6,3.0,280947
+523,Chalet individual,1947,1950,1,,0,Residencial tipo 2,60.96,464.52,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,0,1,0,7,3.0,309716
+524,Chalet individual,2007,2008,2,Antiguo,0,Residencial unifamiliar,158.5,3724.85,5,11,1,0,0,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,61528,0,0,0,5,5.0,346033
+525,Chalet individual,1996,1997,2,Antiguo,0,Residencial unifamiliar,115.82,1095.05,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,3.5,591394
+526,Chalet individual,2005,2005,1,Antiguo,0,Residencial especial,75.59,696.77,2,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,342830
+527,Chalet individual,1956,2000,1,Antiguo,0,Residencial unifamiliar,85.34,1235.61,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,247234
+528,Chalet individual,2008,2008,2,Antiguo,0,Residencial unifamiliar,81.69,1388.71,4,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,803691
+529,Chalet individual,1920,2002,1,Nuevo,0,Residencial unifamiliar,70.71,845.23,2,5,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.0,161076
+530,Chalet individual,1957,1975,1,Antiguo,0,Residencial unifamiliar,,3034.96,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62451,0,0,0,3,3.0,375765
+531,Chalet individual,1988,1989,2,,0,Residencial unifamiliar,103.63,947.61,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,3.0,315165
+532,Chalet individual,1920,1999,2,Nuevo,0,Residencial tipo 2,73.15,571.82,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 3 lados,62801,0,1,1,8,3.0,230521
+533,Chalet individual,1955,2007,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,178995
+534,Chalet individual,1946,1950,1,Antiguo,0,Residencial unifamiliar,60.96,464.52,1,2,0,0,0,1,0,Rectangular,Muy irregular,Moderado,1,1,0,Interior,62801,0,0,0,3,0.5,73608
+535,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,90.22,841.33,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,4.0,346726
+536,Chalet adosado,1910,1991,3,,0,Residencial unifamiliar,85.34,650.32,2,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.5,193601
+537,Chalet individual,1998,1999,2,Antiguo,0,Residencial unifamiliar,69.49,829.07,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,3.5,338577
+538,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,,1183.12,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50014,0,0,0,5,2.0,200355
+539,Chalet individual,1968,1968,1,Antiguo,0,Residencial unifamiliar,,1073.31,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,307768
+540,Chalet individual,2001,2002,1,Antiguo,0,Residencial unifamiliar,,1061.23,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,452900
+541,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,103.63,1356.48,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.5,545478
+542,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,,1021.93,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60706,0,0,0,5,4.0,464499
+543,Chalet individual,1998,1999,1,Antiguo,0,Residencial unifamiliar,95.1,942.04,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,369280
+544,Piso alto,1998,1998,1,Antiguo,1,Residencial tipo 1,41.45,377.0,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.5,249107
+545,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,70.71,1589.01,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,349970
+546,Chalet individual,1988,1988,1,,0,Residencial unifamiliar,,1285.5,3,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,5,3.5,446069
+547,Chalet individual,1923,1950,1,,0,Residencial unifamiliar,85.34,811.69,2,6,1,0,0,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,62801,0,0,0,7,3.0,393326
+548,Chalet individual,1970,1970,2,,0,Residencial unifamiliar,65.84,672.99,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,7,2.5,242551
+549,Chalet individual,1955,1995,1,Antiguo,0,Residencial tipo 2,59.74,765.06,2,4,1,0,1,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,61704,0,1,1,7,2.5,225118
+550,Chalet individual,2003,2004,2,Antiguo,0,Residencial especial,91.44,870.97,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,455431
+551,Piso alto,1977,1977,1,Antiguo,1,Residencial unifamiliar,64.62,375.61,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60646,0,0,0,6,3.0,252132
+552,Chalet individual,1957,1957,1,Antiguo,0,Residencial tipo 2,60.96,557.42,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,2.5,202606
+553,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,106.07,1035.5,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,442443
+554,Chalet individual,1949,2003,1,Antiguo,0,Residencial unifamiliar,81.69,815.41,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,1,0,5,2.0,187021
+555,Chalet individual,2003,2004,2,Antiguo,0,Residencial unifamiliar,103.63,987.09,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,511468
+556,Chalet individual,1922,1950,1,,0,Residencial tipo 2,70.71,592.72,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,2.5,220113
+557,Chalet individual,1957,1957,1,Antiguo,0,Residencial unifamiliar,84.12,1379.61,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,274654
+558,Chalet individual,1920,1950,1,,0,Terciario,73.15,1025.65,2,7,1,0,0,1,0,Rectangular,Muy irregular,Moderado,1,1,0,Interior,60406,0,0,0,6,2.0,210373
+559,Chalet individual,1996,1997,2,Antiguo,0,Residencial unifamiliar,69.49,2031.98,4,6,1,0,0,1,0,Algo irregular,Inclinación lateral,Ligero,1,1,0,Frontal 2 lados,60118,0,0,0,5,3.5,315165
+560,Piso alto,2003,2004,1,Antiguo,1,Residencial unifamiliar,,296.92,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,455809
+561,Chalet individual,1957,1996,1,Antiguo,0,Residencial unifamiliar,,1053.61,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,202306
+562,Chalet individual,1974,1975,1,Antiguo,0,Residencial unifamiliar,93.88,929.96,2,6,1,0,0,1,0,Rectangular,Llana,Moderado,1,1,0,Interior,62040,0,0,0,5,2.5,331143
+563,Chalet individual,1940,1969,1,Nuevo,0,Residencial unifamiliar,76.81,1292.0,2,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.5,194502
+564,Chalet individual,1918,1950,1,,0,Residencial unifamiliar,80.47,2023.43,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,3.0,333175
+565,Chalet individual,1992,2000,2,Antiguo,0,Residencial unifamiliar,,1239.88,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,5,3.5,522037
+566,Chalet individual,1915,1950,2,Nuevo,0,Residencial unifamiliar,80.47,637.13,3,6,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Esquina,50011,0,0,0,4,3.0,213129
+567,Chalet individual,2005,2007,2,Antiguo,0,Residencial unifamiliar,93.88,1040.33,3,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.5,585307
+568,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,85.34,944.92,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,356326
+569,Chalet individual,1983,2009,1,,0,Residencial unifamiliar,96.32,1145.22,3,5,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,50015,0,0,0,8,4.0,548249
+570,Dúplex,1979,1979,2,,0,Residencial unifamiliar,,653.29,2,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,2.5,264837
+571,Dúplex,1965,1965,2,,0,Residencial unifamiliar,90.22,1217.12,2,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,256815
+572,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,73.15,681.17,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,233748
+573,Chalet individual,2009,2009,2,Antiguo,0,Residencial unifamiliar,101.19,1222.51,3,6,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Esquina,50017,0,0,0,5,3.5,388761
+574,Chalet individual,2000,2000,2,,0,Residencial unifamiliar,92.66,925.96,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,318407
+575,Chalet individual,1971,2005,2,,0,Residencial unifamiliar,85.34,975.48,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50014,0,0,0,7,2.5,260344
+576,Chalet individual,1947,1950,1,,0,Residencial unifamiliar,97.54,787.82,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,213412
+577,Chalet individual,1928,1950,1,,0,Residencial unifamiliar,63.4,584.55,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,7,3.5,251093
+578,Chalet individual,1966,1966,2,,0,Residencial unifamiliar,117.04,1094.12,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,320430
+579,Piso alto,2007,2007,2,Antiguo,1,Residencial especial,41.45,334.82,2,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,3.5,262938
+580,Chalet individual,1954,1954,1,,0,Residencial tipo 2,98.76,1128.77,2,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,2.5,236824
+581,Chalet individual,1960,1987,1,Antiguo,0,Residencial unifamiliar,,1354.99,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50014,0,0,0,6,3.0,340695
+582,Chalet individual,2008,2009,1,Antiguo,0,Residencial unifamiliar,119.48,1180.24,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,438622
+583,Dúplex,1990,1990,2,,0,Residencial unifamiliar,98.76,1100.06,2,5,0,0,0,0,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.0,221948
+584,Chalet individual,1893,2000,2,,0,Residencial tipo 2,91.44,1254.19,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,9,5.0,585307
+585,Chalet individual,1935,1995,1,,0,Residencial tipo 2,62.18,568.57,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,2.0,230313
+586,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,107.29,1063.09,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,720528
+587,Chalet individual,1918,2000,1,Nuevo,0,Residencial unifamiliar,67.06,953.84,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,3.0,234123
+588,Chalet individual,1982,1982,2,,0,Residencial unifamiliar,90.22,811.97,2,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,237240
+589,Chalet individual,1968,2003,1,Antiguo,0,Residencial unifamiliar,79.25,2331.4,3,5,1,0,0,1,0,Poco irregular,Muy irregular,Elevado,1,1,0,Interior,62447,0,0,0,8,2.5,247630
+590,Chalet individual,1930,1960,1,,0,Residencial tipo 2,60.96,845.42,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,1,0,6,2.5,143175
+591,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,78.03,772.95,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,334795
+592,Chalet individual,2008,2008,2,Antiguo,0,Residencial unifamiliar,118.26,1252.15,4,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,5.0,782631
+593,Chalet individual,1982,2003,1,Antiguo,0,Residencial unifamiliar,73.15,613.16,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,8,2.5,248530
+594,Piso alto,2003,2003,1,Antiguo,1,Residencial tipo 2,,412.02,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,242435
+595,Chalet individual,1975,1975,1,Antiguo,0,Residencial unifamiliar,107.29,742.3,1,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,6,2.5,198104
+596,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,84.12,1049.99,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,621380
+597,Chalet individual,1910,1993,2,Nuevo,0,Residencial tipo 2,73.15,334.45,1,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,3.0,223042
+598,Piso alto,2006,2007,1,Antiguo,1,Residencial unifamiliar,64.62,364.37,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,363735
+599,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,97.54,1206.25,3,7,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,62451,0,0,0,6,2.5,423668
+600,Casa baja,1980,1980,2,Antiguo,1,Residencial tipo 2,29.26,181.16,4,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61874,0,0,0,6,3.0,271942
+601,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,90.22,1015.15,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,535673
+602,Chalet individual,1937,1950,1,,0,Residencial tipo 2,60.96,836.13,2,6,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,60406,0,0,0,6,3.0,264090
+603,Chalet individual,1992,1992,2,Antiguo,0,Residencial unifamiliar,97.54,932.84,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,4.0,428538
+604,Piso alto,2004,2005,2,Antiguo,1,Residencial especial,36.58,295.62,3,4,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,251426
+605,Chalet individual,2002,2002,1,Antiguo,0,Residencial unifamiliar,107.29,1189.44,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,398009
+606,Chalet individual,1965,1990,2,Antiguo,0,Residencial unifamiliar,103.63,1263.48,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.5,354994
+607,Chalet individual,1996,1996,1,Antiguo,0,Residencial unifamiliar,99.97,1157.94,2,6,1,0,1,1,0,Algo irregular,Muy irregular,Moderado,1,1,0,Esquina,60061,0,0,0,5,2.5,263215
+608,Chalet individual,1948,2002,1,Antiguo,0,Residencial unifamiliar,95.1,724.64,4,8,1,0,0,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,61528,0,0,0,8,2.5,438278
+609,Chalet individual,1934,1998,2,Nuevo,0,Residencial unifamiliar,95.1,1130.44,3,10,1,0,0,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,62451,0,0,0,6,4.0,672588
+610,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,74.37,737.93,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,1,0,5,2.0,221948
+611,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,,1026.58,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.5,542015
+612,Chalet individual,1978,1978,2,,0,Residencial unifamiliar,,965.73,3,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50012,0,0,0,6,3.0,277201
+613,Chalet individual,2001,2001,2,Antiguo,0,Residencial unifamiliar,,1104.15,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,452833
+614,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,85.34,780.57,1,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,1,0,5,2.5,275328
+615,Piso alto,1972,1972,2,,1,Residencial tipo 2,25.6,138.52,2,3,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,6,2.0,125713
+616,Chalet individual,1963,1963,2,,0,Residencial unifamiliar,97.54,817.55,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,1,0,7,3.0,228948
+617,Chalet individual,2002,2003,2,Antiguo,0,Residencial unifamiliar,,730.31,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,356855
+618,Chalet individual,1954,1954,1,,0,Residencial unifamiliar,71.93,671.41,1,4,1,0,0,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Esquina,50014,1,0,0,6,3.0,190000
+619,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,109.73,1086.41,2,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,589639
+620,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,103.63,1137.5,4,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,549288
+621,Chalet individual,1914,1950,1,Nuevo,0,Residencial unifamiliar,54.86,766.26,2,5,0,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,3,1.5,120663
+622,Chalet individual,1974,1997,2,Antiguo,0,Residencial unifamiliar,109.73,1003.35,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,7,3.0,432226
+623,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,86.56,656.27,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,233776
+624,Piso alto,2000,2000,2,Antiguo,1,Residencial especial,,196.68,3,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,315597
+625,Chalet individual,1972,1972,2,Antiguo,0,Residencial unifamiliar,97.54,966.19,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.0,321696
+626,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,106.07,929.03,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,3.0,266412
+627,Chalet individual,1960,1978,1,Antiguo,0,Residencial unifamiliar,,1146.61,1,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,262030
+628,Chalet individual,1955,1972,2,,0,Residencial unifamiliar,97.54,891.87,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,254756
+629,Chalet individual,1969,1969,2,Antiguo,0,Residencial unifamiliar,85.34,1078.23,4,9,1,0,0,1,0,Poco irregular,Inclinación lateral,Elevado,1,1,0,Interior,50014,0,0,0,5,2.5,252852
+630,Chalet individual,1964,1964,2,,0,Residencial unifamiliar,99.97,837.99,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,1,0,5,3.0,303459
+631,Chalet individual,1880,1991,2,Nuevo,0,Residencial tipo 2,60.96,836.13,1,8,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,1,0,0,6,2.5,241540
+632,Casa baja,2006,2006,1,Antiguo,1,Residencial unifamiliar,41.45,426.42,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,392390
+633,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,103.63,1105.55,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,142863
+634,Chalet individual,1954,2005,1,Antiguo,0,Residencial unifamiliar,97.54,859.35,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,2.5,261094
+635,Dúplex,1980,1980,2,,0,Residencial unifamiliar,78.03,648.37,2,4,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,5,3.0,239771
+636,Chalet adosado,1914,1995,3,,0,Residencial tipo 1,73.15,1012.27,2,14,0,0,0,1,1,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50011,0,1,0,7,3.0,374596
+637,Chalet individual,1936,1950,1,Nuevo,0,Residencial tipo 2,62.18,568.57,1,4,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,3,1.0,103901
+638,Chalet adosado,1954,1954,3,,0,Residencial tipo 2,60.96,557.42,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,4,2.5,161046
+639,Chalet individual,1910,1950,1,Nuevo,0,Residencial unifamiliar,81.69,815.41,1,4,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,1,0,7,2.5,153080
+640,Piso alto,2006,2006,1,Antiguo,1,Residencial unifamiliar,64.62,369.94,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,4.0,515339
+641,Piso alto,2003,2004,1,Antiguo,1,Residencial unifamiliar,75.59,1177.73,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,493459
+642,Chalet individual,2001,2001,2,Antiguo,0,Residencial especial,,654.97,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,423294
+643,Chalet individual,1972,1995,2,,0,Residencial unifamiliar,91.44,1287.64,4,9,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,4.0,597428
+644,Chalet individual,1969,1969,2,Antiguo,0,Residencial unifamiliar,97.54,1002.7,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,2.5,284693
+645,Chalet individual,2009,2009,1,Antiguo,0,Residencial especial,103.63,853.5,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.5,642241
+646,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,,978.27,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,3.0,268305
+647,Chalet individual,1950,1950,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,1,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,177033
+648,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,103.63,971.02,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.0,279146
+649,Chalet individual,1966,1966,2,Antiguo,0,Residencial unifamiliar,85.34,715.35,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,258086
+650,Casa baja,1970,1970,2,,1,Residencial tipo 2,25.6,179.86,2,3,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,6,2.0,158267
+651,Chalet individual,2007,2007,2,Antiguo,0,Residencial especial,79.25,754.84,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,6,3.5,370904
+652,Chalet individual,1940,1950,2,Nuevo,0,Residencial unifamiliar,73.15,843.93,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,1,0,0,5,2.0,187021
+653,Chalet individual,1996,1996,2,Antiguo,0,Residencial unifamiliar,85.34,812.9,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,330750
+654,Chalet individual,1906,1995,1,,0,Residencial tipo 2,73.15,958.76,1,7,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,7,3.0,243127
+655,Chalet individual,1995,1995,1,Antiguo,0,Residencial unifamiliar,110.95,969.63,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,6,4.0,630330
+656,Casa baja,1971,1971,2,Antiguo,1,Residencial tipo 2,25.6,156.08,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,3.0,146526
+657,Chalet individual,1959,2006,1,Antiguo,0,Residencial unifamiliar,87.78,929.68,3,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,262037
+658,Chalet individual,1931,2000,2,Nuevo,0,Residencial unifamiliar,73.15,668.9,2,6,1,0,1,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,62451,0,0,0,6,3.5,268341
+659,Chalet individual,1948,1950,1,,0,Residencial unifamiliar,95.1,1626.08,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,1,0,0,5,3.0,162345
+660,Chalet individual,1964,1999,1,Antiguo,0,Residencial unifamiliar,91.44,923.18,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61528,0,0,0,7,2.5,289190
+661,Chalet individual,1976,1976,2,Antiguo,0,Residencial unifamiliar,,1150.51,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Trasero,50012,0,0,0,7,3.5,370663
+662,Chalet individual,1994,2005,2,Antiguo,0,Residencial unifamiliar,63.4,4328.26,4,8,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,7,4.0,696134
+663,Chalet individual,1968,1968,1,Antiguo,0,Residencial unifamiliar,146.3,1259.77,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,3,3.0,190484
+664,Chalet individual,1972,1972,2,,0,Residencial unifamiliar,109.73,930.15,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.0,247630
+665,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,59.74,1941.3,3,8,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,50011,0,0,0,5,4.0,823962
+666,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,129.24,1039.96,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,4.0,448991
+667,Chalet individual,1965,1979,2,Antiguo,0,Residencial unifamiliar,,1714.06,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,241615
+668,Chalet individual,1994,1998,1,Antiguo,0,Residencial unifamiliar,79.25,754.84,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,348483
+669,Chalet individual,1956,1987,1,Antiguo,0,Residencial unifamiliar,,1316.9,3,6,1,0,0,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Esquina,50010,0,0,0,6,2.5,327247
+670,Chalet individual,1922,1950,1,Nuevo,0,Residencial unifamiliar,97.54,1077.68,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,5,2.0,267836
+671,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,78.03,802.03,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60061,0,0,0,5,3.0,300446
+672,Chalet individual,1925,1950,2,Nuevo,0,Residencial tipo 1,65.84,615.85,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,1,0,0,6,3.0,179402
+673,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,,1045.16,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50018,0,0,0,6,3.0,321404
+674,Chalet individual,1957,2004,1,Antiguo,0,Residencial unifamiliar,134.11,1341.71,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,7,3.0,482293
+675,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,97.54,854.71,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,252132
+676,Casa baja,1978,1978,2,Antiguo,1,Residencial unifamiliar,29.26,212.66,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60646,0,0,0,6,3.0,257154
+677,Chalet individual,1900,1950,2,Nuevo,0,Residencial tipo 2,73.15,891.87,3,8,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,2,2.0,169467
+678,Chalet individual,1924,2006,1,Nuevo,0,Residencial unifamiliar,63.4,838.17,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,2.5,189619
+679,Chalet individual,2008,2008,1,Antiguo,0,Residencial unifamiliar,97.54,1100.34,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,645049
+680,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,,923.92,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,240678
+681,Piso alto,1980,1980,1,Antiguo,1,Residencial unifamiliar,60.96,744.34,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,238106
+682,Chalet individual,1932,2000,1,,0,Residencial tipo 1,67.06,418.06,1,6,1,0,0,1,1,Algo irregular,Inclinación frontal,Ligero,1,1,0,Interior,50011,0,0,0,5,2.5,276088
+683,Chalet individual,1996,1997,1,Antiguo,1,Residencial unifamiliar,,268.21,2,6,1,0,0,1,0,Rectangular,Inclinación lateral,Ligero,1,1,0,Interior,62447,0,0,0,5,3.0,311563
+684,Chalet individual,2002,2002,1,Antiguo,0,Residencial unifamiliar,109.73,1044.97,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,4.5,533800
+685,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,70.71,1557.98,3,7,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,5,3.5,367981
+686,Piso alto,1984,1984,2,Antiguo,1,Residencial unifamiliar,,470.28,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50012,0,0,0,5,3.5,388644
+687,Chalet individual,2007,2007,2,Antiguo,0,Residencial especial,102.41,948.26,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,6,3.5,426806
+688,Piso alto,2004,2004,2,Antiguo,1,Residencial especial,,474.27,3,4,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50011,0,0,0,5,3.5,278700
+689,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,73.15,751.49,3,7,1,0,0,1,0,Rectangular,Inclinación lateral,Ligero,1,1,0,Interior,50012,0,0,0,6,4.0,734209
+690,Piso alto,2005,2006,1,Antiguo,1,Residencial unifamiliar,74.37,703.93,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,3.0,364669
+691,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,,411.19,2,3,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,253933
+692,Chalet individual,1994,1995,2,Antiguo,0,Residencial unifamiliar,126.8,2000.67,5,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60706,0,0,0,6,5.0,1414101
+693,Chalet individual,1989,1990,2,Antiguo,0,Residencial unifamiliar,51.21,2432.02,4,9,1,0,0,1,0,Poco irregular,Llana,Moderado,1,1,0,Interior,50017,0,0,0,5,3.5,652547
+694,Chalet individual,1921,1968,1,Nuevo,0,Residencial unifamiliar,73.15,501.68,1,4,1,0,0,1,0,Rectangular,Llana,Elevado,1,1,0,Esquina,61704,0,0,0,6,2.5,211308
+695,Chalet individual,1936,1950,1,,0,Residencial tipo 2,62.18,568.57,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62801,0,0,0,6,2.5,245032
+696,Chalet individual,1987,1987,1,Antiguo,0,Residencial unifamiliar,65.84,1283.08,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,6,3.0,342830
+697,Chalet individual,1921,1950,1,Nuevo,0,Residencial tipo 2,60.96,557.42,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,2.5,173363
+698,Chalet individual,1952,1952,1,Antiguo,0,Residencial unifamiliar,69.49,596.44,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.5,240566
+699,Chalet individual,1965,2009,1,Antiguo,0,Residencial unifamiliar,79.25,785.03,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,8,2.5,230613
+700,Piso alto,2004,2004,1,Antiguo,1,Residencial especial,71.93,397.81,2,5,1,0,0,1,1,Algo irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,352985
+701,Chalet individual,2002,2002,1,Antiguo,0,Residencial unifamiliar,103.63,1331.39,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,608719
+702,Chalet individual,1969,1969,1,Antiguo,0,Residencial unifamiliar,97.54,891.87,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,272706
+703,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,99.97,1155.53,3,10,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,704982
+704,Chalet adosado,1900,1996,3,,0,Residencial tipo 2,92.66,708.85,2,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,1,0,9,2.5,233110
+705,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,85.34,780.39,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,354661
+706,Chalet adosado,1930,1950,3,,0,Residencial tipo 2,85.34,520.26,2,7,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,5,2.0,91579
+707,Chalet individual,1971,2002,1,Antiguo,0,Residencial unifamiliar,,10697.69,3,5,1,0,0,1,0,Algo irregular,Muy irregular,Elevado,1,1,0,Trasero,62447,0,0,0,5,3.5,565640
+708,Piso alto,2006,2006,1,Antiguo,1,Residencial unifamiliar,58.52,579.71,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,439846
+709,Chalet individual,2007,2007,2,Antiguo,0,Residencial unifamiliar,79.25,837.8,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,336275
+710,Chalet individual,1966,1966,1,Antiguo,0,Residencial unifamiliar,,665.37,1,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,2.5,197924
+711,Chalet individual,1935,2003,1,Nuevo,0,Residencial unifamiliar,68.28,383.69,1,5,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,1.5,93649
+712,Chalet individual,1900,1950,1,,0,Terciario,80.47,809.37,1,7,1,0,0,1,1,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,60406,0,0,0,7,2.0,171130
+713,Piso alto,1988,1989,1,Antiguo,1,Residencial unifamiliar,48.77,433.95,3,5,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,340378
+714,Chalet adosado,1970,1970,3,,0,Residencial unifamiliar,73.15,917.23,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,5,2.0,251279
+715,Chalet individual,1976,2005,2,Antiguo,0,Residencial unifamiliar,,1255.77,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,8,3.0,217292
+716,Chalet individual,1974,1974,1,Antiguo,0,Residencial unifamiliar,95.1,942.04,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.0,285727
+717,Chalet individual,1890,1998,2,Nuevo,0,Residencial tipo 2,73.15,1003.35,2,8,1,0,0,1,1,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,61704,0,0,0,8,3.5,298741
+718,Chalet individual,1973,2000,1,Antiguo,0,Residencial unifamiliar,97.54,929.03,3,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,2.5,282748
+719,Chalet individual,1993,1994,2,Antiguo,0,Residencial unifamiliar,117.04,979.38,4,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,3.5,614122
+720,Chalet individual,1969,1969,1,Antiguo,0,Residencial unifamiliar,84.12,921.6,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,6,2.5,250305
+721,Chalet individual,1985,1985,1,Antiguo,1,Residencial unifamiliar,,609.72,3,5,1,0,0,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Trasero,50012,0,0,0,5,4.0,535673
+722,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,,411.19,2,3,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,238106
+723,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,85.34,754.37,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.0,215594
+724,Chalet individual,1954,1972,1,,0,Residencial unifamiliar,73.15,759.2,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.0,243127
+725,Chalet individual,2007,2008,1,Antiguo,0,Residencial unifamiliar,104.85,1234.31,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,4.5,554136
+726,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,73.15,646.61,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.0,208667
+727,Chalet individual,1988,2007,1,Antiguo,0,Residencial unifamiliar,,2015.53,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62451,0,0,0,9,3.0,384432
+728,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,78.03,679.49,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,336811
+729,Dúplex,1958,1958,2,,0,Residencial unifamiliar,103.63,1066.06,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,2.5,190484
+730,Chalet individual,1925,1950,1,Nuevo,0,Residencial tipo 2,63.4,579.71,1,5,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,5,2.0,178363
+731,Piso alto,1995,1996,1,Antiguo,1,Residencial unifamiliar,47.55,500.65,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,393790
+732,Chalet individual,2003,2003,2,,0,Residencial unifamiliar,89.0,890.94,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,5,3.5,351184
+733,Chalet individual,1998,1999,2,Antiguo,0,Residencial unifamiliar,91.44,1059.47,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,400710
+734,Chalet individual,1961,1983,1,Antiguo,0,Residencial unifamiliar,97.54,929.03,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50010,0,1,0,6,2.5,227542
+735,Chalet individual,1968,1968,1,Antiguo,0,Residencial unifamiliar,,834.08,1,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50010,0,0,0,5,2.5,202282
+736,Chalet individual,1914,1970,2,,0,Residencial tipo 2,73.15,1003.35,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,3.5,317508
+737,Dúplex,1950,1950,2,,0,Residencial unifamiliar,73.15,793.76,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,4,1.5,182129
+738,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,87.78,972.04,3,8,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Trasero,60118,0,0,0,5,4.0,467301
+739,Dúplex,1987,1988,2,,0,Residencial unifamiliar,73.15,1003.35,6,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.5,309970
+740,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,79.25,865.21,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,329019
+741,Chalet individual,1910,2002,2,Nuevo,0,Residencial tipo 2,73.15,891.87,2,7,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,7,2.5,247234
+742,Chalet individual,1961,1996,1,Antiguo,0,Residencial unifamiliar,79.25,628.77,3,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,1,0,8,3.0,255734
+743,Chalet individual,2000,2001,1,Antiguo,0,Residencial unifamiliar,79.25,785.03,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,335264
+744,Chalet individual,1963,1999,2,,0,Residencial unifamiliar,85.34,1197.15,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,303043
+745,Piso alto,1993,1993,1,Antiguo,1,Residencial unifamiliar,49.99,501.21,3,5,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,50012,0,0,0,5,4.0,324170
+746,Chalet individual,1976,1996,2,Antiguo,0,Residencial unifamiliar,,832.69,5,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,9,4.0,539923
+747,Chalet individual,2000,2000,2,Antiguo,0,Residencial unifamiliar,,817.08,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,408676
+748,Chalet individual,1880,2003,2,Nuevo,0,Residencial tipo 2,79.25,1086.97,2,8,1,0,0,1,1,Poco irregular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,7,3.5,460590
+749,Chalet individual,1996,1996,1,Antiguo,0,Residencial unifamiliar,71.93,984.12,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,3.5,433585
+750,Chalet individual,1945,1950,1,,0,Residencial unifamiliar,60.96,780.85,2,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,3,2.0,169704
+751,Chalet individual,1910,2004,1,,0,Residencial tipo 2,67.06,817.55,1,7,0,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,7,2.0,160680
+752,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,,720.0,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,303423
+753,Chalet individual,1997,1997,1,Antiguo,0,Residencial unifamiliar,96.32,858.05,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,422694
+754,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,97.54,951.33,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,536647
+755,Chalet individual,1969,2005,1,Antiguo,0,Residencial unifamiliar,74.37,736.72,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,8,3.0,270142
+756,Piso alto,1999,1999,2,Antiguo,1,Residencial especial,41.45,300.08,3,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,298714
+757,Chalet individual,2007,2007,2,Antiguo,0,Residencial unifamiliar,82.91,1000.47,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,367115
+758,Chalet individual,1978,1978,2,Antiguo,0,Residencial unifamiliar,,1079.16,3,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,5,3.0,264580
+759,Casa baja,1999,1999,2,Antiguo,1,Residencial especial,29.26,211.82,3,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,323089
+760,Chalet individual,1995,1995,2,Antiguo,0,Residencial unifamiliar,79.25,1138.71,3,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,543165
+761,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,85.34,845.42,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,220789
+762,Chalet individual,1924,1950,1,Nuevo,0,Residencial tipo 2,73.15,642.05,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,62801,0,1,0,5,2.5,173168
+763,Chalet individual,2009,2009,2,Antiguo,0,Residencial especial,87.78,802.68,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,358324
+764,Chalet individual,1999,1999,2,Antiguo,0,Residencial unifamiliar,99.97,876.08,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,583575
+765,Piso alto,1995,1996,1,Antiguo,1,Residencial unifamiliar,36.58,887.13,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50018,0,0,0,5,4.0,525933
+766,Chalet individual,2008,2008,1,Antiguo,0,Residencial unifamiliar,91.44,1355.18,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.5,475687
+767,Chalet individual,1988,1988,2,Antiguo,0,Residencial unifamiliar,97.54,968.14,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,327187
+768,Chalet individual,1940,1985,1,,0,Residencial unifamiliar,91.44,1162.03,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,7,3.0,288151
+769,Chalet individual,2004,2005,1,Antiguo,0,Residencial unifamiliar,85.34,845.42,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,422377
+770,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,57.3,4970.68,5,12,1,0,0,1,0,Algo irregular,Inclinación lateral,Moderado,1,1,0,Trasero,50012,0,0,0,5,4.0,895810
+771,Chalet individual,1982,1982,2,,0,Residencial unifamiliar,,673.73,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,5,2.5,233603
+772,Chalet individual,1951,1951,1,Antiguo,0,Residencial unifamiliar,81.69,824.7,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.0,198686
+773,Chalet individual,1976,1976,2,,0,Residencial unifamiliar,114.6,726.41,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,3.0,178163
+774,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,85.34,942.97,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,1,0,5,2.5,214456
+775,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,134.11,1321.64,2,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60645,0,0,0,5,4.0,739828
+776,Piso alto,1998,1998,1,Antiguo,1,Residencial tipo 2,39.01,418.06,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,62040,0,0,0,5,3.0,280532
+777,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,104.85,1041.44,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,431460
+778,Chalet individual,1974,1974,1,Antiguo,0,Residencial unifamiliar,121.92,1240.26,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,277576
+779,Dúplex,1977,1977,2,,0,Residencial tipo 1,73.15,780.39,2,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,1,0,5,2.5,269709
+780,Dúplex,1977,1977,2,,0,Residencial unifamiliar,95.1,978.27,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,3.0,262967
+781,Chalet individual,1995,1996,1,Antiguo,0,Residencial unifamiliar,76.81,731.61,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,329645
+782,Chalet individual,1992,1992,2,Antiguo,0,Residencial unifamiliar,79.25,664.54,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,342636
+783,Chalet individual,2001,2002,1,Antiguo,0,Residencial unifamiliar,81.69,1512.93,2,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,323997
+784,Chalet individual,1978,1978,2,,0,Residencial unifamiliar,,845.51,2,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62040,0,0,0,6,2.5,286592
+785,Chalet individual,1914,2001,2,,0,Residencial tipo 2,42.67,585.29,2,9,0,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,3.0,230521
+786,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,,909.52,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,1,0,5,3.0,279666
+787,Chalet individual,1915,1950,1,,0,Residencial tipo 2,73.15,1003.35,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,6,2.5,231445
+788,Chalet individual,2004,2004,2,Antiguo,0,Residencial unifamiliar,92.66,942.22,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,387962
+789,Chalet individual,1954,2000,1,Antiguo,0,Residencial tipo 2,60.96,557.42,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,7,2.0,194322
+790,Chalet individual,1966,2007,2,Antiguo,0,Residencial unifamiliar,,1133.88,3,9,1,0,0,1,0,Poco irregular,Muy irregular,Ligero,1,1,0,Interior,62447,0,0,0,8,3.0,351184
+791,Piso alto,2005,2006,1,Antiguo,1,Residencial unifamiliar,52.43,295.62,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,277415
+792,Chalet individual,1976,1976,2,,0,Residencial unifamiliar,,1052.87,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62040,0,0,0,5,3.0,274954
+793,Chalet individual,1996,1997,2,Antiguo,0,Residencial unifamiliar,112.17,921.6,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60706,0,0,0,5,3.5,505312
+794,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,92.66,850.81,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,421421
+795,Chalet individual,1994,1996,2,Antiguo,0,Residencial unifamiliar,,1006.33,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,350284
+796,Chalet individual,1980,1981,2,Antiguo,0,Residencial unifamiliar,85.34,780.39,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,6,3.0,284728
+797,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,86.56,761.53,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,3.0,268773
+798,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,69.49,713.22,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,198104
+799,Chalet individual,2008,2009,2,Antiguo,0,Residencial unifamiliar,126.8,1255.86,4,11,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,839863
+800,Chalet individual,1937,1950,1,,0,Residencial unifamiliar,73.15,668.9,3,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,1,0,7,2.5,327772
+801,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,96.32,1188.97,4,8,1,0,0,1,0,Poco irregular,Inclinación lateral,Moderado,1,1,0,Interior,62447,0,1,0,5,3.0,360189
+802,Chalet individual,1916,1990,1,Nuevo,0,Residencial tipo 2,48.77,445.93,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,7,2.0,205841
+803,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,76.81,761.71,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,340378
+804,Chalet individual,2008,2009,2,Antiguo,0,Residencial unifamiliar,130.45,1290.52,4,12,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,1009451
+805,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,91.44,836.13,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,229852
+806,Chalet individual,2008,2008,1,Antiguo,0,Residencial unifamiliar,110.95,1140.29,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,50011,0,0,0,5,3.5,410039
+807,Chalet individual,1967,1967,2,,0,Residencial unifamiliar,91.44,905.8,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,263941
+808,Chalet individual,1923,2004,2,Nuevo,0,Residencial unifamiliar,175.56,1986.64,4,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,2.5,387030
+809,Chalet individual,1966,1966,2,,0,Residencial unifamiliar,103.63,1244.9,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,311567
+810,Chalet individual,1898,1965,2,,0,Residencial tipo 2,109.73,752.51,2,11,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,5,2.5,183558
+811,Chalet individual,1974,1999,1,Antiguo,0,Residencial unifamiliar,95.1,942.04,3,5,1,1,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,352570
+812,Piso alto,2004,2004,1,Antiguo,1,Residencial tipo 2,,412.3,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,260236
+813,Chalet individual,1952,1952,1,Antiguo,0,Terciario,80.47,809.37,1,4,1,0,0,0,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,60406,0,0,0,5,2.5,93232
+814,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,91.44,905.8,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,295744
+815,Chalet individual,1918,1950,1,,0,Residencial unifamiliar,54.86,766.26,3,7,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.5,225956
+816,Chalet individual,1998,1998,1,Antiguo,0,Residencial unifamiliar,58.52,1127.56,2,6,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,3.5,374475
+817,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,,1061.42,1,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,2.5,266862
+818,Chalet individual,2002,2002,1,Antiguo,0,Residencial unifamiliar,,1232.36,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,62040,0,0,0,5,4.0,488056
+819,Chalet individual,1971,1971,2,,0,Residencial unifamiliar,97.54,819.03,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,7,3.0,258086
+820,Piso alto,2009,2010,1,Antiguo,1,Residencial unifamiliar,53.64,591.89,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,372976
+821,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,87.78,671.32,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,5,3.5,329573
+822,Chalet adosado,1953,1953,1,Antiguo,0,Residencial tipo 2,73.15,557.42,1,4,1,0,0,1,1,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,61704,0,0,0,4,2.0,161046
+823,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,,1151.44,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,421421
+824,Chalet individual,1940,1950,1,,0,Residencial unifamiliar,73.15,919.74,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,7,3.0,241569
+825,Chalet individual,2006,2006,1,Antiguo,0,Residencial especial,98.76,1042.0,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,453082
+826,Chalet individual,2007,2008,1,Antiguo,0,Residencial unifamiliar,138.99,1375.24,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,5.0,693363
+827,Chalet individual,1924,1950,1,,0,Residencial tipo 2,60.96,569.5,2,5,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,6,2.5,197203
+828,Chalet individual,2001,2001,1,Antiguo,0,Residencial unifamiliar,79.25,792.37,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,327287
+829,Chalet individual,1967,1967,2,Antiguo,0,Residencial unifamiliar,,2666.13,4,7,1,0,0,1,0,Algo irregular,Muy irregular,Elevado,1,1,0,Trasero,62447,0,0,0,5,2.5,320360
+830,Casa baja,2005,2005,2,Antiguo,1,Residencial especial,29.26,236.35,3,4,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,287121
+831,Chalet individual,1957,1957,1,Antiguo,0,Residencial unifamiliar,97.54,1105.55,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,3.0,298957
+832,Piso alto,2005,2005,2,Antiguo,1,Residencial especial,36.58,295.43,3,4,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,294133
+833,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,53.64,887.04,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,6,3.5,394622
+834,Chalet individual,1964,1964,1,Antiguo,0,Residencial unifamiliar,121.92,929.4,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,3.0,289190
+835,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,91.44,731.61,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,252042
+836,Chalet individual,1950,1995,1,Antiguo,0,Residencial unifamiliar,73.15,891.87,2,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,2.0,213129
+837,Chalet individual,1948,1973,1,Nuevo,0,Residencial tipo 2,109.73,752.51,2,5,1,0,1,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,2.5,287503
+838,Casa baja,1973,1973,2,Antiguo,1,Residencial tipo 2,25.6,156.08,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61615,0,0,0,5,3.0,180094
+839,Chalet individual,1995,2006,1,Antiguo,0,Residencial unifamiliar,91.44,884.9,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,6,2.5,259336
+840,Chalet individual,1946,1995,1,,0,Residencial unifamiliar,85.34,1093.19,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.5,235023
+841,Chalet individual,1925,1950,2,Nuevo,0,Residencial tipo 1,,1129.24,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,8,3.0,252132
+842,Chalet individual,1904,2002,2,Nuevo,0,Residencial tipo 2,73.15,969.91,2,8,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,8,2.5,283649
+843,Chalet individual,1966,1966,2,,0,Residencial unifamiliar,99.97,837.99,3,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,3.0,314985
+844,Dúplex,1961,1961,2,,0,Residencial unifamiliar,97.54,743.22,2,10,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,1,0,0,4,2.5,264090
+845,Chalet individual,1915,1950,1,,0,Residencial tipo 2,121.92,1176.62,2,7,1,0,0,1,1,Poco irregular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,8,2.5,277165
+846,Chalet individual,1975,1981,2,,0,Residencial unifamiliar,,1546.56,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50010,0,0,0,5,2.5,320280
+847,Chalet individual,1993,1993,2,Antiguo,0,Residencial unifamiliar,91.44,865.58,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,368847
+848,Chalet individual,1972,1972,1,Antiguo,0,Residencial unifamiliar,43.89,1442.13,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,6,2.5,231179
+849,Chalet individual,1908,1997,1,,0,Residencial unifamiliar,91.44,4236.38,3,10,1,0,0,1,0,Algo irregular,Inclinación frontal,Ligero,1,1,0,Interior,62447,0,0,0,8,3.0,432226
+850,Chalet individual,1976,1994,2,,0,Residencial unifamiliar,97.54,891.87,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50018,0,1,0,7,3.0,350247
+851,Piso alto,2003,2003,1,Antiguo,1,Residencial tipo 2,43.89,412.02,2,3,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,246297
+852,Piso alto,2003,2003,1,Antiguo,1,Residencial unifamiliar,,296.92,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,4.0,418799
+853,Chalet individual,1941,1950,2,,0,Residencial unifamiliar,64.62,662.21,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,5,3.5,307169
+854,Chalet individual,1964,1964,2,,0,Residencial unifamiliar,,1123.66,2,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,6,3.0,273605
+855,Chalet individual,1955,1974,1,Antiguo,0,Residencial unifamiliar,124.36,1664.82,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,4,2.5,331143
+856,Chalet individual,1962,2010,1,Antiguo,0,Residencial unifamiliar,,640.75,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50010,0,0,0,8,2.5,211464
+857,Chalet individual,1978,1978,2,,0,Residencial unifamiliar,,1019.15,2,5,1,0,1,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,60061,0,0,0,6,3.0,264739
+858,Chalet individual,1994,1995,2,Antiguo,0,Residencial unifamiliar,79.25,754.84,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,301312
+859,Chalet individual,1976,1976,1,Antiguo,0,Residencial unifamiliar,97.54,966.19,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,5,3.5,263215
+860,Chalet individual,1968,1984,2,Antiguo,0,Residencial unifamiliar,,1024.63,4,9,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,7,3.0,486975
+861,Chalet individual,1918,1998,1,,0,Residencial unifamiliar,67.06,709.97,2,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,62451,0,0,0,8,3.5,355773
+862,Chalet adosado,1965,1965,3,,0,Residencial unifamiliar,91.44,1080.0,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,4,2.5,218957
+863,Chalet individual,1984,1985,1,Antiguo,0,Residencial unifamiliar,98.76,898.56,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,5,3.0,253091
+864,Chalet individual,1959,1959,1,Antiguo,0,Residencial unifamiliar,85.34,736.81,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,229447
+865,Chalet individual,2007,2008,1,Antiguo,0,Residencial especial,87.78,802.68,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,451280
+866,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,,812.9,2,5,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,257154
+867,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,81.69,989.97,2,6,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,466185
+868,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,103.63,647.53,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50010,0,1,0,5,2.0,241615
+869,Chalet individual,1948,1950,2,Antiguo,0,Residencial unifamiliar,,1371.43,2,7,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Esquina,60118,0,1,0,6,2.5,329195
+870,Chalet individual,1993,1994,2,Antiguo,0,Residencial unifamiliar,97.54,923.27,4,8,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,392957
+871,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,73.15,613.16,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,189619
+872,Chalet individual,1998,1998,2,Antiguo,0,Residencial unifamiliar,85.34,812.9,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,333847
+873,Chalet individual,1953,1996,1,Antiguo,0,Residencial unifamiliar,90.22,826.09,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,7,2.5,208909
+874,Chalet individual,1949,1950,1,,0,Residencial unifamiliar,73.15,1128.21,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,230313
+875,Chalet individual,1941,1950,1,,0,Residencial tipo 2,63.4,531.41,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,1,0,0,6,2.5,115156
+876,Chalet individual,2007,2007,2,Antiguo,0,Residencial especial,91.44,836.13,3,11,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,4.0,568407
+877,Chalet individual,1963,1963,1,Antiguo,0,Residencial unifamiliar,114.6,2349.15,2,5,1,0,0,1,0,Rectangular,Inclinación lateral,Moderado,1,1,0,Interior,62040,0,0,0,5,2.0,247702
+878,Chalet individual,2004,2005,2,Antiguo,0,Residencial unifamiliar,90.22,820.71,4,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,606087
+879,Chalet individual,1961,1995,2,,0,Residencial unifamiliar,107.29,1094.58,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,7,2.5,246431
+880,Chalet individual,1978,2005,1,Antiguo,0,Residencial unifamiliar,,650.32,2,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,60061,0,0,0,8,2.5,236374
+881,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,73.15,652.55,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.5,294058
+882,Chalet individual,1990,1991,1,,0,Residencial unifamiliar,53.64,1278.16,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50017,0,0,0,5,3.5,351184
+883,Chalet individual,1992,1993,2,Antiguo,0,Residencial unifamiliar,,895.21,3,7,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.0,308238
+884,Chalet individual,1912,1950,2,,0,Residencial unifamiliar,73.15,576.37,2,10,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50011,0,0,0,5,2.0,230826
+885,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,79.25,664.26,1,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,173168
+886,Piso alto,1999,2000,1,Antiguo,1,Residencial especial,60.96,475.57,3,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,50011,0,0,0,5,4.5,592330
+887,Dúplex,1959,2005,2,,0,Residencial unifamiliar,85.34,779.74,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,5,2.5,282446
+888,Chalet individual,1955,1955,1,,0,Residencial unifamiliar,71.93,1529.74,2,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,7,2.5,244028
+889,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,115.82,1473.91,3,8,1,0,0,1,0,Poco irregular,Llana,Moderado,1,1,0,Interior,50014,0,0,0,6,4.0,501959
+890,Chalet individual,1953,1953,1,Antiguo,0,Residencial unifamiliar,156.06,1129.7,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,1,0,4,3.0,258886
+891,Chalet individual,1949,2006,1,,0,Residencial unifamiliar,73.15,749.17,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,1,0,0,7,2.5,230189
+892,Chalet individual,1978,1978,2,Antiguo,0,Residencial unifamiliar,85.34,1039.03,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,3.0,298714
+893,Chalet individual,1963,2003,1,Antiguo,0,Residencial unifamiliar,85.34,781.69,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,8,3.0,300951
+894,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,,1234.12,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,297156
+895,Dúplex,1979,1979,2,,0,Residencial unifamiliar,78.03,651.99,2,8,1,0,0,1,0,Rectangular,Inclinación frontal,Ligero,1,1,0,Interior,50015,0,0,0,5,2.5,205824
+896,Chalet individual,1963,1963,2,Antiguo,0,Residencial unifamiliar,86.56,655.52,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,252132
+897,Chalet individual,1936,1950,1,Nuevo,0,Residencial tipo 2,60.96,814.3,1,6,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,6,2.0,207451
+898,Dúplex,1979,1979,2,,0,Residencial unifamiliar,78.03,651.99,2,12,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,1,0,5,2.5,247548
+899,Chalet individual,2009,2010,1,Antiguo,0,Residencial unifamiliar,121.92,1200.21,4,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,1018454
+900,Chalet individual,1961,1994,1,Antiguo,0,Residencial unifamiliar,79.25,649.67,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,1,0,7,2.5,262967
+901,Chalet individual,1971,1971,1,Antiguo,0,Residencial unifamiliar,,681.91,1,4,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.0,206028
+902,Chalet individual,1957,2000,1,Antiguo,0,Residencial unifamiliar,78.03,809.37,2,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,264946
+903,Chalet individual,2003,2003,2,Antiguo,0,Residencial unifamiliar,76.81,731.61,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.5,350622
+904,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,60.96,1380.45,2,7,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Trasero,60118,0,0,0,5,3.5,467496
+905,Chalet individual,1967,1967,1,Antiguo,0,Residencial unifamiliar,,573.49,1,6,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,6,2.5,235059
+906,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,97.54,921.6,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,2.5,213129
+907,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,141.43,1254.28,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,4.0,477610
+908,Chalet individual,1936,1987,1,,0,Residencial unifamiliar,104.85,1068.38,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62451,0,0,0,7,3.5,486975
+909,Chalet individual,1983,1983,1,Antiguo,0,Residencial unifamiliar,,825.44,2,5,1,0,1,1,0,Poco irregular,Muy irregular,Moderado,1,1,0,Interior,62040,0,0,0,5,2.5,255175
+910,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,181.66,1169.56,3,8,1,0,0,1,0,Algo irregular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,301312
+911,Dúplex,1960,1960,2,,0,Residencial unifamiliar,97.54,1077.68,2,12,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50014,0,1,0,5,2.5,256921
+912,Chalet individual,1977,1989,1,Antiguo,0,Residencial unifamiliar,,862.7,2,5,1,0,0,1,0,Poco irregular,Llana,Moderado,1,1,0,Trasero,60061,0,0,0,7,2.5,248496
+913,Chalet individual,1925,1950,1,Nuevo,0,Residencial tipo 2,62.18,568.57,1,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,2.5,171415
+914,Dúplex,1949,1950,2,,0,Residencial tipo 1,99.97,582.5,2,8,1,0,0,1,0,Rectangular,Inclinación lateral,Ligero,1,1,0,Interior,62451,0,0,0,6,2.5,271582
+915,Piso alto,2009,2009,2,Antiguo,1,Residencial especial,36.58,278.71,3,4,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.0,300849
+916,Casa baja,1970,1970,2,Antiguo,1,Residencial tipo 2,25.6,185.9,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60936,0,0,0,5,2.0,140474
+917,Chalet individual,1949,1950,1,Antiguo,0,Terciario,60.96,836.13,1,4,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,3,1.0,68782
+918,Chalet individual,1956,1956,1,Antiguo,0,Residencial unifamiliar,,1592.36,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,6,2.0,233776
+919,Chalet individual,1991,1991,2,Antiguo,0,Residencial unifamiliar,125.58,1219.35,4,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,5,3.5,445770
+920,Chalet individual,1958,2002,1,Antiguo,0,Residencial unifamiliar,106.07,1024.63,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,8,3.0,317867
+921,Chalet individual,1994,1994,2,Antiguo,0,Residencial unifamiliar,85.34,786.15,4,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,376469
+922,Dúplex,1900,2003,2,,0,Residencial unifamiliar,81.69,815.41,6,9,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,1,0,7,2.5,262758
+923,Chalet individual,2005,2006,1,Antiguo,0,Residencial unifamiliar,79.25,951.05,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,331124
+924,Piso alto,1993,1994,1,Antiguo,1,Residencial unifamiliar,60.96,744.34,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,347582
+925,Chalet individual,1980,1980,1,Antiguo,0,Residencial unifamiliar,96.32,951.33,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,404189
+926,Chalet individual,1977,1977,1,Antiguo,0,Residencial unifamiliar,,1450.31,3,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,6,2.5,315165
+927,Chalet individual,2003,2004,2,Antiguo,0,Residencial unifamiliar,113.39,1114.74,3,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.0,533800
+928,Chalet individual,1968,1968,2,Antiguo,0,Residencial unifamiliar,,919.74,3,9,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,1,0,5,3.5,316966
+929,Chalet individual,2001,2001,1,Antiguo,0,Residencial unifamiliar,,1099.79,2,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,4.0,409541
+930,Chalet individual,1997,1997,2,Antiguo,0,Residencial unifamiliar,,1208.3,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60118,0,0,0,5,3.5,432434
+931,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,89.0,829.16,2,7,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,348067
+932,Chalet individual,1965,1965,1,Antiguo,0,Residencial unifamiliar,85.34,845.42,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,203472
+933,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,102.41,1084.18,2,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50011,0,0,1,5,4.5,599354
+934,Chalet individual,2004,2004,1,Antiguo,0,Residencial unifamiliar,76.81,788.47,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60061,0,0,0,5,3.5,329019
+935,Chalet individual,1960,2007,1,Antiguo,0,Residencial unifamiliar,381.61,2568.77,3,9,1,0,0,1,0,Algo irregular,Inclinación lateral,Moderado,1,1,0,Interior,50014,0,0,0,7,3.5,435828
+936,Chalet individual,1926,1953,1,Nuevo,0,Residencial unifamiliar,63.4,541.16,1,5,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,5,2.0,155637
+937,Chalet individual,2003,2003,1,Antiguo,0,Residencial unifamiliar,81.69,936.74,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.5,320187
+938,Chalet individual,2005,2005,2,Antiguo,0,Residencial unifamiliar,91.44,898.84,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,438114
+939,Chalet individual,2006,2006,2,Antiguo,0,Residencial unifamiliar,89.0,813.83,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,467105
+940,Chalet individual,1940,1950,2,Nuevo,0,Residencial unifamiliar,,2238.03,2,10,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62447,0,0,0,7,3.5,406944
+941,Dúplex,1976,1976,2,,0,Residencial unifamiliar,67.06,1174.29,2,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,3.0,293938
+942,Chalet individual,1999,1999,2,Antiguo,0,Residencial unifamiliar,,813.37,4,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Frontal 2 lados,60118,0,0,1,5,3.5,370579
+943,Dúplex,1977,1977,2,,0,Residencial unifamiliar,51.21,716.38,4,8,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,3,2.0,280947
+944,Dúplex,1967,1967,2,,0,Residencial unifamiliar,121.92,2322.58,2,8,1,0,0,1,0,Rectangular,Muy irregular,Ligero,1,1,0,Interior,62040,0,0,0,4,2.5,267836
+945,Chalet individual,1958,1958,1,Antiguo,0,Residencial unifamiliar,,1335.48,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,0,1,Trasero,50017,0,0,0,6,3.0,238106
+946,Chalet individual,1890,1996,1,,0,Residencial tipo 2,119.48,819.4,1,7,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,0,0,6,2.5,216286
+947,Chalet individual,1959,1959,2,,0,Residencial unifamiliar,85.34,758.37,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,278550
+948,Chalet individual,2002,2003,1,Antiguo,0,Residencial unifamiliar,103.63,1350.44,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50017,0,0,0,5,4.0,505705
+949,Chalet individual,2002,2002,2,Antiguo,0,Residencial unifamiliar,79.25,1301.2,3,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,374971
+950,Chalet individual,1972,2006,1,Antiguo,0,Residencial unifamiliar,95.1,869.57,3,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,7,3.0,328852
+951,Chalet individual,1950,2002,1,Antiguo,0,Residencial unifamiliar,73.15,668.9,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,8,2.5,241615
+952,Chalet individual,1965,1965,1,Antiguo,0,Residencial tipo 1,73.15,724.64,2,6,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50015,0,0,0,5,2.5,233553
+953,Chalet individual,1972,2003,2,,0,Residencial unifamiliar,73.15,668.9,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,8,2.5,231871
+954,Chalet individual,1969,1969,2,Antiguo,0,Residencial unifamiliar,,1028.9,4,7,1,0,1,1,0,Poco irregular,Llana,Moderado,1,1,0,Interior,62040,0,0,0,4,2.5,309762
+955,Dúplex,1975,1975,2,,0,Residencial unifamiliar,42.67,873.29,4,4,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Trasero,61528,0,0,0,5,3.0,248357
+956,Dúplex,1946,1950,2,,0,Residencial tipo 1,99.97,662.96,2,8,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,62451,0,0,0,6,3.0,271582
+957,Piso alto,1980,1980,2,Antiguo,1,Residencial tipo 2,29.26,120.77,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61874,0,0,0,6,3.0,214728
+958,Chalet individual,1962,1962,1,Antiguo,0,Residencial unifamiliar,85.34,689.34,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50010,0,0,0,5,2.5,247234
+959,Chalet individual,2003,2003,1,Antiguo,0,Residencial unifamiliar,79.25,785.03,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,346502
+960,Casa baja,1999,1999,2,Antiguo,1,Residencial especial,29.26,238.95,4,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50011,0,0,0,5,3.5,258086
+961,Chalet individual,1958,2008,1,Antiguo,0,Residencial unifamiliar,60.96,669.55,2,4,0,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,62801,0,0,0,7,2.5,193981
+962,Chalet individual,1977,1995,2,Antiguo,0,Residencial unifamiliar,,1135.93,4,11,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50012,0,0,0,7,3.0,489857
+963,Piso alto,1976,1976,2,Antiguo,1,Residencial unifamiliar,29.26,214.42,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60646,0,0,0,6,3.0,290312
+964,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,148.74,1107.68,2,7,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,4.5,413871
+965,Chalet individual,2002,2003,2,Antiguo,0,Residencial unifamiliar,97.54,1051.29,4,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50017,0,0,0,5,3.5,357824
+966,Chalet individual,2005,2007,2,Antiguo,0,Residencial unifamiliar,79.25,951.05,3,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60118,0,0,0,5,3.0,335076
+967,Chalet individual,1940,1950,1,,0,Residencial unifamiliar,158.5,891.87,3,7,1,0,0,1,0,Poco irregular,Inclinación lateral,Ligero,1,1,0,Interior,62451,0,0,0,7,2.5,277068
+968,Chalet individual,1955,1955,1,Antiguo,0,Residencial unifamiliar,,686.55,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,7,2.5,243127
+969,Chalet individual,1910,1950,1,,0,Residencial tipo 2,60.96,550.45,1,6,0,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61704,0,0,0,6,1.5,65631
+970,Chalet adosado,1958,1958,3,,0,Residencial unifamiliar,91.44,964.52,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,5,3.0,272706
+971,Chalet individual,1949,1950,1,,0,Residencial unifamiliar,73.15,1003.35,2,6,0,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,4,2.0,262967
+972,Casa baja,2003,2004,2,Antiguo,1,Residencial unifamiliar,43.89,210.7,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,3.5,299580
+973,Piso alto,1979,1979,1,Antiguo,1,Residencial unifamiliar,67.06,733.19,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50015,0,0,0,5,3.0,165675
+974,Chalet individual,2007,2008,1,Antiguo,0,Residencial especial,115.82,1081.3,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50011,0,0,0,5,3.5,327772
+975,Chalet individual,1910,1993,2,Nuevo,0,Residencial unifamiliar,73.15,1060.4,1,8,1,0,1,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,62801,0,1,0,8,3.5,290056
+976,Casa baja,2000,2000,2,Antiguo,1,Residencial especial,,246.29,4,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,50011,0,0,0,5,3.5,321404
+977,Chalet individual,1923,1958,1,Nuevo,0,Residencial unifamiliar,62.18,548.13,1,4,0,0,0,1,0,Poco irregular,Inclinación frontal,Ligero,1,1,0,Interior,62801,0,0,0,7,2.0,166545
+978,Piso alto,2006,2007,1,Antiguo,1,Residencial especial,42.67,397.07,3,4,1,0,0,1,1,Poco irregular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,374409
+979,Chalet individual,1954,1954,1,Antiguo,0,Residencial unifamiliar,82.91,877.93,1,5,1,0,0,1,0,Rectangular,Inclinación frontal,Moderado,1,1,0,Interior,61528,0,0,0,5,2.0,206028
+980,Chalet individual,1963,1963,1,Antiguo,0,Residencial unifamiliar,97.54,819.03,2,5,1,0,1,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,50010,0,1,0,6,2.5,240703
+981,Chalet individual,1961,2007,2,,0,Residencial unifamiliar,,1126.17,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,50014,0,0,0,9,3.5,321288
+982,Chalet individual,1998,1999,2,Antiguo,0,Residencial unifamiliar,119.48,1133.7,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Esquina,60706,0,0,0,5,4.0,581843
+983,Chalet individual,2007,2007,1,Antiguo,0,Residencial unifamiliar,52.43,295.62,2,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61705,0,0,0,5,3.5,287962
+984,Chalet individual,2002,2002,2,Antiguo,0,Residencial unifamiliar,,1045.16,3,9,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,60061,0,0,0,5,4.0,460861
+985,Dúplex,1977,1977,2,,0,Residencial unifamiliar,91.44,940.64,2,8,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,62040,0,0,0,5,2.5,218191
+986,Chalet adosado,1950,1950,3,,0,Residencial unifamiliar,82.91,1010.79,2,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,61528,0,0,0,5,2.5,225118
+987,Chalet individual,1910,2003,1,,0,Residencial tipo 2,71.93,493.32,1,5,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,0,1,0,8,3.0,227904
+988,Chalet individual,2009,2010,1,Antiguo,0,Residencial unifamiliar,101.19,943.8,4,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,60645,0,0,0,5,4.5,658024
+989,Chalet individual,1976,1976,2,Antiguo,0,Residencial unifamiliar,,1119.11,3,8,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,365231
+990,Chalet individual,2006,2006,2,Antiguo,0,Residencial especial,79.25,754.84,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,50011,0,0,0,5,3.5,383736
+991,Chalet individual,1997,1998,2,Antiguo,0,Residencial unifamiliar,99.97,878.12,4,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60706,0,0,0,5,4.0,677869
+992,Chalet individual,1882,1986,2,Nuevo,0,Residencial tipo 2,147.52,1641.69,2,8,1,0,0,1,1,Rectangular,Llana,Ligero,1,1,0,Esquina,61704,1,0,0,9,4.0,290922
+993,Chalet individual,1964,1993,2,Antiguo,0,Residencial unifamiliar,97.54,906.73,3,7,1,0,1,1,0,Rectangular,Llana,Moderado,1,1,0,Interior,50014,0,0,0,8,3.0,350247
+994,Chalet individual,2005,2006,2,Antiguo,0,Residencial unifamiliar,82.91,821.82,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.0,338740
+995,Chalet individual,2006,2007,1,Antiguo,0,Residencial unifamiliar,117.04,1157.2,3,7,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Frontal 2 lados,60645,0,0,0,5,5.0,584441
+996,Chalet individual,1946,1950,1,,0,Residencial unifamiliar,62.18,437.76,3,5,1,0,1,1,0,Poco irregular,Llana,Moderado,1,1,0,Interior,62801,0,1,0,7,2.0,236865
+997,Chalet individual,1961,1961,1,Antiguo,0,Residencial unifamiliar,,990.25,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50014,0,0,0,6,2.5,265888
+998,Chalet individual,1970,1970,1,Antiguo,0,Residencial unifamiliar,,1088.54,2,6,1,0,0,1,0,Poco irregular,Llana,Ligero,1,1,0,Interior,50012,0,0,0,6,3.0,320360
+999,Chalet individual,1922,1950,1,Nuevo,0,Residencial tipo 2,73.15,909.15,1,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60406,0,0,0,4,1.5,177259
+1000,Chalet individual,2006,2006,1,Antiguo,0,Residencial unifamiliar,78.03,628.21,3,6,1,0,0,1,0,Rectangular,Llana,Ligero,1,1,0,Interior,60061,0,0,0,5,3.5,343005
