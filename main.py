@@ -1,47 +1,76 @@
+# Native Libraries
+import pprint as pp
+import warnings
+# Third-party Libraries
+# General Utilities
 import pandas as pd
 import numpy as np
-import pprint as pp
-import pgeocode as pg
-import warnings
+# Machine Learning Libraries
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.preprocessing import StandardScaler
-from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression, ElasticNet, Lasso, Ridge
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.model_selection import RandomizedSearchCV, GridSearchCV, train_test_split
 from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error
-from scipy.stats import uniform, randint
 from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import RandomOverSampler
+from scipy.stats import uniform, randint
+# Visualization Libraries
+from matplotlib import pyplot as plt
+
 
 warnings.filterwarnings('ignore')
 
 # global variables
-train_size = 0.9
+train_size = 0.8
 models = [LinearRegression(), ElasticNet(), Lasso(), Ridge(), KNeighborsRegressor(), RandomForestRegressor(), GradientBoostingRegressor(learning_rate=0.01, n_estimators=1000), AdaBoostRegressor()]
+
+price_min = 0
+price_max = 0
+price_mean = 0
+price_std = 0
 
 def minmax_norm(df, variables_reales):
     for variable in variables_reales:
         df[variable] = (df[variable] - df[variable].min()) / (df[variable].max() - df[variable].min())
     return df
 
+def minmax_norm_price(df):
+    global price_min, price_max
+
+    price_min = df['Precio'].min()
+    price_max = df['Precio'].max()
+    df['Precio'] = (df['Precio'] - price_min) / (price_max - price_min)
+    return df
+
+def minmax_norm_price_inverse(np_array):
+    global price_min, price_max
+    return np_array * (price_max - price_min) + price_min
+
 def zscore_norm(df, variables_reales):
     for variable in variables_reales:
         df[variable] = (df[variable] - df[variable].mean()) / df[variable].std()
     return df
 
+def zscore_norm_price(df):
+    global price_mean, price_std
+    price_mean = df['Precio'].mean()
+    price_std = df['Precio'].std()
+    df['Precio'] = (df['Precio'] - price_mean) / price_std
+    return df
+
+def zscore_norm_price_inverse(np_array):
+    global price_mean, price_std
+    return np_array * price_std + price_mean
+
+
 def one_hot_encoding(df, variables_categoricas):
     return pd.get_dummies(df, columns=variables_categoricas, dtype=np.int64)
-
-def label_encoding(df, variables_categoricas):
-    for variable in variables_categoricas:
-        df[variable] = df[variable].astype('category').cat.codes
-    return df
 
 def extract_postal_hierarchy(df):
     df['CP'] = df['CP'].astype(str)
@@ -85,20 +114,20 @@ def dataset_preprocessing(df):
     df.index = df['Id']
     df.drop(['Id', 'AguaCorriente', 'GasNatural', 'FosaSeptica'], axis=1, inplace=True)
     df.dropna(inplace=True)
+    df = extract_postal_hierarchy(df)
+
+    df['Reformada'] = df['FechaConstruccion'] != df['FechaReforma']
+    df['Reformada'] = df['Reformada'].astype(int)
 
     variables_reales = df.columns[df.dtypes == 'float64']
     variables_categoricas = df.dtypes[df.dtypes == 'object'].index
     variables_enteras = df.columns[df.dtypes == 'int64']
 
-    variables_enteras = variables_enteras.drop(['Precio', 'CP'])
-
-    df = minmax_norm(df, variables_reales)
-    df = minmax_norm(df, variables_enteras)
+    variables_enteras = variables_enteras.drop(['Precio'])
+    df = zscore_norm(df, variables_reales)
+    df = zscore_norm(df, variables_enteras)
+    df = zscore_norm_price(df)
     df = one_hot_encoding(df, variables_categoricas)
-    df = extract_postal_hierarchy(df)
-
-    df['Reformada'] = df['FechaConstruccion'] != df['FechaReforma']
-    df['Reformada'] = df['Reformada'].astype(int)
     
     return df
 
@@ -173,7 +202,32 @@ class SophisticatedNet(nn.Module):
 
         x = self.fc5(x)
         return x
-
+    
+class RegressionTransformer(nn.Module):
+    def __init__(self, feature_dim, num_heads, num_encoder_layers, dropout):
+        super(RegressionTransformer, self).__init__()
+        # Transformer encoder layer
+        encoder_layer = nn.TransformerEncoderLayer(d_model=feature_dim, 
+                                                   nhead=num_heads, 
+                                                   dropout=dropout)
+        self.transformer_encoder = nn.TransformerEncoder(encoder_layer, 
+                                                         num_layers=num_encoder_layers)
+        # Final feed-forward layer to produce a single output for regression
+        self.regressor = nn.Linear(feature_dim, 1)
+    
+    def forward(self, src):
+        # src: (sequence_length, batch_size, feature_dim)
+        # For non-sequential data, sequence_length will be 1.
+        # Pass the input through the transformer encoder
+        encoded_src = self.transformer_encoder(src)
+        # If using non-sequential data with sequence_length=1, 
+        # then squeeze the sequence_length dimension for simplicity
+        if encoded_src.shape[0] == 1:
+            encoded_src = encoded_src.squeeze(0)
+        # Apply regressor for each item in the batch
+        regression_output = self.regressor(encoded_src)
+        
+        return regression_output
 
 def main():
     df = pd.read_csv('train.csv')
@@ -193,8 +247,7 @@ def main():
     X_train_scaled, X_val_scaled, y_train, y_val = train_test_split(
         X_train_scaled, y_train, test_size=0.1, random_state=42
     )
-    # Convert your data to PyTorch tensors
-    # Convert your data to PyTorch tensors
+    
     # Convert your data to PyTorch tensors
     X_train_tensor = torch.tensor(X_train_scaled, dtype=torch.float32)
     y_train_tensor = torch.tensor(y_train.values.reshape(-1, 1), dtype=torch.float32)
@@ -202,7 +255,6 @@ def main():
     y_test_tensor = torch.tensor(y_test.values.reshape(-1, 1), dtype=torch.float32)
     X_val_tensor = torch.tensor(X_val_scaled, dtype=torch.float32)
     y_val_tensor = torch.tensor(y_val.values.reshape(-1, 1), dtype=torch.float32)
-
 
     # Create DataLoader for your data
     train_dataset = TensorDataset(X_train_tensor, y_train_tensor)
@@ -214,14 +266,13 @@ def main():
 
     # Define loss and optimizer
     criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.1, weight_decay=0.5)
-
+    optimizer = optim.Adam(model.parameters(), lr=0.001)
     # Learning rate scheduler (optional but can help with convergence)
     #scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=100, gamma=0.8)
 
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.5, patience=30, threshold=1000000)
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.9, patience=15, threshold=0.0001, threshold_mode='rel')
     # Training loop
-    epochs = 400
+    epochs = 300
     val_loss_list = []
     train_loss_list = []
     for epoch in range(epochs):
@@ -255,10 +306,13 @@ def main():
     model.eval()
     with torch.no_grad():
         y_pred_tensor = model(X_test_tensor)
-    y_pred = y_pred_tensor.numpy()
+    #y_pred = y_pred_tensor.numpy()
+    y_pred = y_pred_tensor.detach().numpy()
+    y_pred = zscore_norm_price_inverse(y_pred)
+    y_test = zscore_norm_price_inverse(y_test.values.reshape(-1, 1))
 
     fig, ax = plt.subplots(figsize=(10, 6))
-    visualize_test(y_test, y_pred, ax, "SophisticatedNet")
+    visualize_test(y_test, y_pred, ax, "Transformer")
     plt.show()
 
 if __name__ == "__main__":
