@@ -62,6 +62,9 @@ def test_model(model, X_test, y_test):
     return y_pred
 
 def visualize_test(y_test, y_pred, ax, model_name):
+    paired = sorted(list(zip(y_test, y_pred)))
+    y_test_sorted, y_pred_sorted = zip(*paired)
+
     mse = mean_squared_error(y_test, y_pred)
     mae = mean_absolute_error(y_test, y_pred)
     mape= mean_absolute_percentage_error(y_test, y_pred)
@@ -71,8 +74,8 @@ def visualize_test(y_test, y_pred, ax, model_name):
     print('MAPE: {:.2e}'.format(mape))
     # plot y_test and y_pred values to visualize the model performance
     num_range = np.arange(0, len(y_test))
-    ax.plot(num_range, y_test, label='y_test', marker='*', color='blue')
-    ax.plot(num_range, y_pred, label='y_pred', marker='.', color='red')
+    ax.plot(num_range, y_test_sorted, label='y_test', marker='*', color='blue')
+    ax.plot(num_range, y_pred_sorted, label='y_pred', marker='.', color='red')
     ax.set_title(f'y_test vs y_pred {model_name}')
     ax.legend()
 
