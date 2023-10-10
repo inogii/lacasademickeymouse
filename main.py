@@ -5,6 +5,7 @@ import warnings
 # General Utilities
 import pandas as pd
 import numpy as np
+import datetime
 # Machine Learning Libraries
 import torch
 import torch.nn as nn
@@ -27,7 +28,7 @@ from matplotlib import pyplot as plt
 warnings.filterwarnings('ignore')
 
 # global variables
-train_size = 0.8
+train_size = 0.9
 models = [LinearRegression(), ElasticNet(), Lasso(), Ridge(), KNeighborsRegressor(), RandomForestRegressor(), GradientBoostingRegressor(learning_rate=0.01, n_estimators=1000), AdaBoostRegressor()]
 
 price_min = 0
@@ -118,6 +119,14 @@ def dataset_preprocessing(df):
 
     df['Reformada'] = df['FechaConstruccion'] != df['FechaReforma']
     df['Reformada'] = df['Reformada'].astype(int)
+
+    current_year = datetime.datetime.now().year
+    df['Aspect_Ratio'] = df['PerimParcela'] / df['Superficie']
+    df['HighRating'] = df['RatingEstrellas'].apply(lambda x: 1 if x > 4 else 0)
+    df['AgeOfHouse'] = current_year - df['FechaConstruccion']
+    df['YearsSinceReform'] = current_year - df['FechaReforma']
+    df['TotalRooms'] = df['Aseos'] + df['Habitaciones']
+    df['AvgProximity'] = (df['ProxCarretera'] + df['ProxCallePrincipal'] + df['ProxViasTren']) / 3
 
     variables_reales = df.columns[df.dtypes == 'float64']
     variables_categoricas = df.dtypes[df.dtypes == 'object'].index
@@ -250,6 +259,8 @@ def main():
     train = df.sample(frac=train_size, random_state=1)
     test = df.drop(train.index)
 
+    train = train[train['Precio'] < train['Precio'].quantile(0.95)]
+
     X_train, y_train = x_y_split(train, 'Precio')
     X_test, y_test = x_y_split(test, 'Precio')
 
@@ -280,13 +291,13 @@ def main():
 
     # Define loss and optimizer
     criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    optimizer = optim.Adam(model.parameters(), lr=0.01)
     # Learning rate scheduler (optional but can help with convergence)
     #scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=100, gamma=0.8)
 
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.9, patience=15, threshold=0.0001, threshold_mode='rel')
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.5, patience=15, threshold=0.0001, threshold_mode='rel')
     # Training loop
-    epochs = 300
+    epochs = 100
     val_loss_list = []
     train_loss_list = []
     for epoch in range(epochs):
