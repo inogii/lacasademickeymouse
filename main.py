@@ -152,7 +152,7 @@ def dataset_preprocessing(df):
     df_filtered = df.drop(caract_alta_correlación, axis=1)
     df_filtered
     
-    return df
+    return df_filtered
 
 def get_lr(optimizer):
     for param_group in optimizer.param_groups:
