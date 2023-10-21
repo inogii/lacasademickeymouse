@@ -5,6 +5,7 @@ import warnings
 # General Utilities
 import pandas as pd
 import numpy as np
+import scipy.stats as stats
 import datetime
 # Machine Learning Libraries
 import torch
@@ -20,7 +21,7 @@ from sklearn.model_selection import RandomizedSearchCV, GridSearchCV, train_test
 from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error
 from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import RandomOverSampler
-from scipy.stats import uniform, randint
+from scipy.stats import uniform, randint, norm
 # Visualization Libraries
 from matplotlib import pyplot as plt
 
@@ -194,15 +195,15 @@ class SophisticatedNet(nn.Module):
         # Define layers
         self.fc1 = nn.Linear(input_dim, hidden1)
         self.bn1 = nn.BatchNorm1d(hidden1)  # Batch normalization after first layer
-        self.dropout1 = nn.Dropout(0.5)     # Dropout layer
+        self.dropout1 = nn.Dropout(0.2)     # Dropout layer
 
         self.fc2 = nn.Linear(hidden1, hidden2)
         self.bn2 = nn.BatchNorm1d(hidden2)
-        self.dropout2 = nn.Dropout(0.5)
+        self.dropout2 = nn.Dropout(0.3)
 
         self.fc3 = nn.Linear(hidden2, hidden3)
         self.bn3 = nn.BatchNorm1d(hidden3)
-        self.dropout3 = nn.Dropout(0.5)
+        self.dropout3 = nn.Dropout(0.4)
 
         self.fc4 = nn.Linear(hidden3, hidden4)
         self.bn4 = nn.BatchNorm1d(hidden4)
@@ -253,22 +254,32 @@ class RegressionTransformer(nn.Module):
         return regression_output
 
 def main():
-    df = pd.read_csv('train.csv')
-    df = dataset_preprocessing(df)
+    df = pd.read_csv('train_preprocessed.csv')
+    #df = dataset_preprocessing(df)
 
-    train = df.sample(frac=train_size, random_state=1)
+    train_size = 0.8
+    train = df.sample(frac=train_size, random_state=0)
     test = df.drop(train.index)
+    train = train[train['Precio'] < 1.1*10**6]
 
-    train = train[train['Precio'] < train['Precio'].quantile(0.95)]
+    n_iterations = 100  # number of bootstrap samples you want to create
+    bootstrap_samples = []
+
+    for i in range(n_iterations):
+        bootstrap_sample = train.sample(n=len(train), replace=True)
+        bootstrap_samples.append(bootstrap_sample)
+
+    train = pd.concat(bootstrap_samples, axis=0).reset_index(drop=True)   
+
+    train = zscore_norm_price(train)
+    test = zscore_norm_price(test)
 
     X_train, y_train = x_y_split(train, 'Precio')
     X_test, y_test = x_y_split(test, 'Precio')
-
-    scaler = StandardScaler().fit(X_train)
-    X_train_scaled = scaler.transform(X_train)
-    X_test_scaled = scaler.transform(X_test)
     
-
+    X_train_scaled = X_train.values
+    X_test_scaled = X_test.values
+    
     X_train_scaled, X_val_scaled, y_train, y_val = train_test_split(
         X_train_scaled, y_train, test_size=0.1, random_state=42
     )
@@ -283,7 +294,7 @@ def main():
 
     # Create DataLoader for your data
     train_dataset = TensorDataset(X_train_tensor, y_train_tensor)
-    train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+    train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True)
 
     input_dim = X_train.shape[1]
     model = SophisticatedNet(input_dim)
@@ -295,7 +306,7 @@ def main():
     # Learning rate scheduler (optional but can help with convergence)
     #scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=100, gamma=0.8)
 
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.5, patience=15, threshold=0.0001, threshold_mode='rel')
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', factor=0.5, patience=35, threshold=0.0001, threshold_mode='rel')
     # Training loop
     epochs = 100
     val_loss_list = []
@@ -336,8 +347,18 @@ def main():
     y_pred = zscore_norm_price_inverse(y_pred)
     y_test = zscore_norm_price_inverse(y_test.values.reshape(-1, 1))
 
+    paired = sorted(list(zip(y_test, y_pred)))
+    y_test_sorted, y_pred_sorted = zip(*paired)
+
+    mae = mean_absolute_error(y_test_sorted, y_pred_sorted)
+    mape = mean_absolute_percentage_error(y_test_sorted, y_pred_sorted)
+
+    # print in scientific notation format
+    print('MAE: {:}'.format(mae/1000))
+    print('MAPE: {:.4}'.format(mape*100))
+
     fig, ax = plt.subplots(figsize=(10, 6))
-    visualize_test(y_test, y_pred, ax, "Transformer")
+    visualize_test(y_test_sorted, y_pred_sorted, ax, "SophisticatedNet")
     plt.show()
 
 if __name__ == "__main__":
