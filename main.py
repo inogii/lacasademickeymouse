@@ -12,7 +12,7 @@ script_path = os.path.abspath(__file__)
 # Obtener el directorio en el que se encuentra el script
 script_dir = os.path.dirname(script_path)
 
-dir = script_dir + os.sep + "modelo.pickle"
+dir = script_dir + os.sep + "modelo2.pickle"
 
 with open(dir, "rb") as handler:
     model = pickle.load(handler)
