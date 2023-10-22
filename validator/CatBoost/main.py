@@ -70,28 +70,19 @@ def dataset_preprocessing(df):
 
     df = extract_postal_hierarchy(df)
 
-    # df['Reformada'] = df['FechaConstruccion'] != df['FechaReforma']
-    # df['Reformada'] = df['Reformada'].astype(int)
-
-    # make garaje feature inverse, 0 is 1, 1 is 0
     df['SinGaraje'] = df['Garaje'].apply(lambda x: 1 if x == 0 else 0)
     df['3plantas'] = df['Plantas'].apply(lambda x: 1 if x == 3 else 0)
 
-    # Current Year
     current_year = datetime.datetime.now().year
 
     df['AgeOfHouse'] = current_year - df['FechaConstruccion']
     df['YearsSinceReform'] = current_year - df['FechaReforma']
-    #df['TotalRooms'] = df['Aseos'] + df['Habitaciones']
-    #df['AvgProximity'] = (df['ProxCarretera'] + df['ProxCallePrincipal'] + df['ProxViasTren']) / 3
 
     df['aseos+hab*rating'] = (0.7*df['Aseos'] + 0.3*df['Habitaciones']) * df['RatingEstrellas']
     df['synth4'] = np.log1p(df['aseos+hab*rating'] * df['Superficie'])
     df['synth5'] = np.log1p(df['aseos+hab*rating'] * df['Estado'])
     df['synth6'] = np.log1p(df['Estado'] * df['Superficie'])
     df['synth7'] = np.log1p(df['aseos+hab*rating'] * df['Superficie'] * df['Estado'])
-
-    #df['rooms/rating'] = df['Habitaciones'] / df['RatingEstrellas']
 
     df.drop(['FechaConstruccion', 'FechaReforma', 'Garaje', 'Formato', 'TipoDesnivel', 'Desnivel', 'Situacion', 'Plantas', 'PAU', 'Vallada', 'Callejon', 'CallePavimentada', 'Aseos', 'Habitaciones'], axis=1, inplace=True)
 
@@ -102,8 +93,6 @@ def dataset_preprocessing(df):
     df = one_hot_encoding(df, variables_categoricas)
 
     df.drop(['Tipo_Chalet individual', 'CatParcela_Residencial tipo 2', 'CatParcela_Residencial unifamiliar', 'CP_50012', 'CP_50018', 'CP_60645', 'CP_61704', 'CP_62451'], axis=1, inplace=True)
-
-
 
     df = zscore_norm(df, variables_reales)
     df = zscore_norm(df, variables_enteras)
